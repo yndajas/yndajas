@@ -31,7 +31,7 @@ Key:
 
 ### Web apps
 
-- [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails (as an API; Ruby) \[FS\]
+- [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails as an API (Ruby) \[FS\]
 - [Rails amusement park](https://github.com/yndajas/rails-amusement-park-online-web-sp-000): Rails (Ruby) + HTML \[FS\]
 - [Fwitter](https://github.com/yndajas/sinatra-fwitter-group-project-online-web-sp-000): Sinatra (Ruby) + HTML/CSS \[FS\]
 - CS50 Finance [private repository; code on request]: Flask (Python) + HTML with API integration \[CS50\]
