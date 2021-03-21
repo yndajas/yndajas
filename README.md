@@ -19,8 +19,8 @@ Key:
 - [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50\]
 
 ### Other
-- Chrome extension - [Selected Text Readability](https://github.com/yndajas/selected-text-readability): JavaScript + a little HTML/CSS \[CS50; [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA); [deployment on Chrome web Store](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)\]
-- CLI scraper - [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper): just Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
+- [Selected Text Readability](https://github.com/yndajas/selected-text-readability) Chrome extension: JavaScript + a little HTML/CSS \[CS50; [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA); [deployment on Chrome web Store](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)\]
+- [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: just Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
 
 ## Collaborative
 
@@ -44,4 +44,4 @@ Key:
     - pause state including audio
     - bronze, silver and gold medals on score screen for passing 3, 6 and 9 points respectively
 - Pong AI mod \[private repository; code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=Cjdwoz1tBIQ)\]
-- [CLI Tic-Tac-Toe](https://github.com/yndajas/ttt-with-ai-project-online-web-sp-000): Ruby \[FS; [demo](https://www.youtube.com/watch?v=_M3nB_ZpLBE)\]
+- [Tic-Tac-Toe](https://github.com/yndajas/ttt-with-ai-project-online-web-sp-000) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=_M3nB_ZpLBE)\]
