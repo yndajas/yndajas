@@ -20,7 +20,7 @@ Key:
 
 ### Other
 - [Selected Text Readability](https://github.com/yndajas/selected-text-readability) Chrome extension: JavaScript + a little HTML/CSS \[CS50; [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA); [deployment on Chrome web Store](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)\]
-- [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: just Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
+- [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
 
 ## Collaborative
 
