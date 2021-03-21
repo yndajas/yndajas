@@ -1,6 +1,6 @@
 # Selected projects
 
-key: 
+Key: 
 - FS = projects completed as part of Flatiron School studies
 - CS50 = projects completed as part of Harvard's CS50 Introduction to Computer Science
 - GD50 = projects completed as part of Harvard's GD50/CS50G/CS50's Introduction to Game Development
