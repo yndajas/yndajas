@@ -12,7 +12,7 @@ Key:
 - [Racqueteer](https://github.com/yndajas/Racqueteer): Sinatra (Ruby) + a little JavaScript + HTML/CSS \[FS; [demo](https://www.youtube.com/watch?v=nK35Tuxfkso); [deployment on Heroku](http://racqueteer.yndajas.co)\]
 
 ### Static sites
-- [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll + HTML/CSS
+- [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
 - [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50\]
 
 ### Other
@@ -22,7 +22,7 @@ Key:
 ## Collaborative
 
 ### Static sites
-- [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll + HTML/CSS
+- [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll (Ruby) + HTML/CSS
 
 ## Guided
 
