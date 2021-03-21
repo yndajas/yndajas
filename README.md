@@ -14,13 +14,13 @@ Key:
 - [Workinonit](https://github.com/yndajas/Workinonit): Rails (Ruby) + a little JavaScript + SCSS \[FS; [demo](https://www.youtube.com/watch?v=PYwX1QGj6os); [deployment on Heroku](http://workinonit.yndajas.co)\]
 - [Racqueteer](https://github.com/yndajas/Racqueteer): Sinatra (Ruby) + a little JavaScript + HTML/CSS \[FS; [demo](https://www.youtube.com/watch?v=nK35Tuxfkso); [deployment on Heroku](http://racqueteer.yndajas.co)\]
 
-### Static sites
-- [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
-- [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50\]
-
-### Other
+### Tools
 - [Selected Text Readability](https://github.com/yndajas/selected-text-readability) Chrome extension: JavaScript + a little HTML/CSS \[CS50; [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA); [deployment on Chrome web Store](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)\]
 - [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
+
+### Static sites
+- [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50\]
+- [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
 
 ## Collaborative
 
