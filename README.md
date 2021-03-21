@@ -40,5 +40,5 @@ Key:
     - ceiling collision
     - pause state including audio
     - bronze, silver and gold medals on score screen for passing 3, 6 and 9 points respectively
-- Pong AI mod \[private repository; code on request\]: LÖVE/Love 2D (Lua) \[GD50, [demo](https://www.youtube.com/watch?v=Cjdwoz1tBIQ)\]
+- Pong AI mod \[private repository; code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=Cjdwoz1tBIQ)\]
 - [CLI Tic-Tac-Toe](https://github.com/yndajas/ttt-with-ai-project-online-web-sp-000): Ruby \[FS; [demo](https://www.youtube.com/watch?v=_M3nB_ZpLBE)\]
