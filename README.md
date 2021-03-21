@@ -1,4 +1,4 @@
-# selected projects
+# Selected projects
 
 key: 
 - FS = projects completed as part of Flatiron School studies
