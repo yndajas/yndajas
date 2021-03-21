@@ -34,7 +34,7 @@ Key:
 - CS50 Finance [private repository; code on request]: Flask (Python) + HTML with API integration \[CS50\]
 
 ### Games
-- Flappy Bird mod [private repository, code on request]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)\] - added:
+- Flappy Bird mod [private repository, code on request]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)\]:
     - countdown audio
     - randomisation of gap between pipes within pairs and between pairs of pipes
     - ceiling collision
