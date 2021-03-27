@@ -37,7 +37,7 @@ Key:
 - CS50 Finance [private repository; code on request]: Flask (Python) + HTML with API integration \[CS50\]
 
 ### Games
-- Flappy Bird mod \[private repository, code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)\]:
+- Flappy Bird mod \[private repository, code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)\]
     - countdown audio
     - randomisation of gap between pipes within pairs and between pairs of pipes
     - ceiling collision
@@ -45,3 +45,9 @@ Key:
     - bronze, silver and gold medals on score screen for passing 3, 6 and 9 points respectively
 - Pong AI mod \[private repository; code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=Cjdwoz1tBIQ)\]
 - [Tic-Tac-Toe](https://github.com/yndajas/ttt-with-ai-project-online-web-sp-000) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=_M3nB_ZpLBE)\]
+
+### Libraries
+- [functional programming implementations of built-in JavaScript methods](https://github.com/yndajas/js-advanced-functions-functional-library-project-online-web-sp-000): JavaScript \[FS\]
+    - collection functions (arrays or objects): `each`, `map`, `reduce`, `find`, `filter`, `size`
+    - array functions: `first`, `last`, `compact`, `sortBy`, `flatten`, `uniq`
+    - object functions: `keys`, `values` (also works with arrays, allowing you to pass an array or object - e.g. if of unknown type - and get the values), `functions`
