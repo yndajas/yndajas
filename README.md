@@ -34,7 +34,7 @@ Key:
 - [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails as an API (Ruby) \[FS\]
 - [Rails amusement park](https://github.com/yndajas/rails-amusement-park-online-web-sp-000): Rails (Ruby) + HTML \[FS\]
 - [Fwitter](https://github.com/yndajas/sinatra-fwitter-group-project-online-web-sp-000): Sinatra (Ruby) + HTML/CSS \[FS\]
-- CS50 Finance [private repository; code on request]: Flask (Python) + HTML with API integration \[CS50\]
+- [CS50 Finance](https://github.com/yndajas/cs50_2020_pset8_finance): Flask (Python) + HTML with API integration \[CS50\]
 
 ### Games
 - Flappy Bird mod \[private repository, code on request\]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)\]
@@ -51,3 +51,10 @@ Key:
     - collection functions (arrays or objects): `each`, `map`, `reduce`, `find`, `filter`, `size`
     - array functions: `first`, `last`, `compact`, `sortBy`, `flatten`, `uniq`
     - object functions: `keys`, `values` (also works with arrays, allowing you to pass an array or object - e.g. if of unknown type - and get the values), `functions`
+
+### Miscellaneous problem sets
+(listed roughly in ascending order of complexity within each line; Nihongooo! and CS50 Finance listed above are also problem set solutions)
+
+- [Hello](https://github.com/yndajas/cs50_2020_pset1_hello), [Mario (more)](https://github.com/yndajas/cs50_2020_pset1_Mario_more), [Cash](https://github.com/yndajas/cs50_2020_pset1_cash), [Credit](https://github.com/yndajas/cs50_2020_pset1_credit), [Caesar](https://github.com/yndajas/cs50_2020_pset2_Caesar), [Readability](https://github.com/yndajas/cs50_2020_pset2_readability), [Substitution](https://github.com/yndajas/cs50_2020_pset2_substitution), [Plurality](https://github.com/yndajas/cs50_2020_pset3_plurality), [Runoff](https://github.com/yndajas/cs50_2020_pset3_runoff), [Filter (less)](https://github.com/yndajas/cs50_2020_pset4_filter_less), [Recover](https://github.com/yndajas/cs50_2020_pset4_recover), [Speller](https://github.com/yndajas/cs50_2020_pset5_speller): C \[CS50\]
+- [Hello](https://github.com/yndajas/cs50_2020_pset6_hello), [Mario (more)](https://github.com/yndajas/cs50_2020_pset6_Mario_more), [Credit](https://github.com/yndajas/cs50_2020_pset6_credit), [Readability](https://github.com/yndajas/cs50_2020_pset6_readability), [DNA](https://github.com/yndajas/cs50_2020_pset6_DNA), [Movies](https://github.com/yndajas/cs50_2020_pset7_movies): Python \[CS50\]
+- [Houses](https://github.com/yndajas/cs50_2020_pset7_houses): SQL \[CS50\]
