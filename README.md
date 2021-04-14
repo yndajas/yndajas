@@ -11,6 +11,7 @@ Key:
 ## Independent
 
 ### Web apps
+- [JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-Hats): JavaScript + Rails as an API (Ruby) \[FS; [demo](https://www.youtube.com/watch?v=x-QS4K6tN78); [deployment on GitHub](http://jazzcatcom.yndajas.co) (Heroku backend)\]
 - [Workinonit](https://github.com/yndajas/Workinonit): Rails (Ruby) + a little JavaScript + SCSS \[FS; [demo](https://www.youtube.com/watch?v=PYwX1QGj6os); [deployment on Heroku](http://workinonit.yndajas.co)\]
 - [Racqueteer](https://github.com/yndajas/Racqueteer): Sinatra (Ruby) + a little JavaScript + HTML/CSS \[FS; [demo](https://www.youtube.com/watch?v=nK35Tuxfkso); [deployment on Heroku](http://racqueteer.yndajas.co)\]
 
@@ -19,6 +20,7 @@ Key:
 - [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)\]
 
 ### Static sites
+- [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): HTML/SCSS + JavaScript
 - [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50\]
 - [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
 
