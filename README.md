@@ -11,8 +11,8 @@ Key:
 ## Independent
 
 ### Web apps
-- [StackStore](https://github.com/yndajas/StackStore): React/Redux (JavaScript) + Rails API (Ruby) \[FS; [demo](https://www.youtube.com/watch?v=47qTNiLzgQU); [deployment on GitHub](http://stackstore.yndajas.co) (Heroku backend)\]
-- [JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats): JavaScript + Rails as an API (Ruby) \[FS; [demo](https://www.youtube.com/watch?v=x-QS4K6tN78); [deployment on GitHub](http://jazzcatcom.yndajas.co) (Heroku backend)\]
+- [StackStore](https://github.com/yndajas/StackStore): React/Redux (JavaScript) + Rails API (Ruby) + SCSS \[FS; [demo](https://www.youtube.com/watch?v=47qTNiLzgQU); [deployment on GitHub](http://stackstore.yndajas.co) (Heroku backend)\]
+- [JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats): JavaScript + Rails API (Ruby) + SCSS \[FS; [demo](https://www.youtube.com/watch?v=x-QS4K6tN78); [deployment on GitHub](http://jazzcatcom.yndajas.co) (Heroku backend)\]
 - [Workinonit](https://github.com/yndajas/Workinonit): Rails (Ruby) + a little JavaScript + SCSS \[FS; [demo](https://www.youtube.com/watch?v=PYwX1QGj6os); [deployment on Heroku](http://workinonit.yndajas.co)\]
 - [Racqueteer](https://github.com/yndajas/Racqueteer): Sinatra (Ruby) + a little JavaScript + HTML/CSS \[FS; [demo](https://www.youtube.com/watch?v=nK35Tuxfkso); [deployment on Heroku](http://racqueteer.yndajas.co)\]
 
@@ -34,7 +34,7 @@ Key:
 
 ### Web apps
 
-- [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails as an API (Ruby) \[FS\]
+- [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails API (Ruby) \[FS\]
 - [Rails amusement park](https://github.com/yndajas/rails-amusement-park-online-web-sp-000): Rails (Ruby) + HTML \[FS\]
 - [Fwitter](https://github.com/yndajas/sinatra-fwitter-group-project-online-web-sp-000): Sinatra (Ruby) + HTML/CSS \[FS\]
 - [CS50 Finance](https://github.com/yndajas/cs50_2020_pset8_finance): Flask (Python) + HTML with API integration \[CS50\]
