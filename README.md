@@ -1,6 +1,14 @@
 ![](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
 
+# Links/contact
+
+- [CV](https://github.com/yndajas/yndajas/blob/main/YJ_CV_210924.pdf) -- more detail on major projects
+- [LinkedIn](https://www.linkedin.com/in/yndajas) -- fairly comprehensive history of experiences
+- [Coding blog](https://yndajas.co/blog/categories/coding) -- posts about major projects and coding journey
+- [Twitter](https://twitter.com/yndajas)
+- [yndajas@gmail.com](mailto:yndajas@gmail.com)
+
 # Selected projects
 
 Key: 
