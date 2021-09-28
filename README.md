@@ -7,7 +7,7 @@
 -   [LinkedIn](https://www.linkedin.com/in/yndajas) -- fairly comprehensive history of experiences
 -   [Coding blog](https://yndajas.co/blog/categories/coding) -- posts about major projects and coding journey
 -   [Twitter](https://twitter.com/yndajas)
--   <mailto:yndajas@gmail.com>
+-   [yndajas@gmail.com](mailto:yndajas@gmail.com)
 
 # Selected projects
 
