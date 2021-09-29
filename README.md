@@ -1,79 +1,145 @@
+# 👋 Hello!
+
+I'm Ynda ([they/them](https://pronoun.is/they/.../themself)), a software engineer experienced in Ruby (inc. Rails) and JavaScript-based programming (inc. React and Redux) with a background in education, research and community-building. I possess strong skills in collaboration, data analysis/quality and communication of complex information which help not-for-profits and progressive organisations deliver high-quality, person-centric services.
+
 ![](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
 
-# Links/contact
+# 🔗 Links
 
--   [CV](https://github.com/yndajas/yndajas/blob/main/YJ_CV_210926.pdf) -- more detail on major projects
--   [LinkedIn](https://www.linkedin.com/in/yndajas) -- fairly comprehensive history of experiences
--   [Coding blog](https://yndajas.co/blog/categories/coding) -- posts about major projects and coding journey
+-   [CV](YJ_CV_210926.pdf)
+-   [LinkedIn](https://www.linkedin.com/in/yndajas)
+-   [Coding blog](https://yndajas.co/blog/categories/coding)
 -   [Twitter](https://twitter.com/yndajas)
 -   [yndajas@gmail.com](mailto:yndajas@gmail.com)
 
-# Selected projects
+# 👩‍💻 Projects
 
-Key:
+<!-- Icons from https://devicon.dev -->
 
--   FS = projects completed as part of [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/online) studies
--   CS50 = projects completed as part of [Harvard's CS50 Introduction to Computer Science](https://cs50.harvard.edu/x/2020)
--   GD50 = projects completed as part of [Harvard's GD50/CS50G/CS50's Introduction to Game Development](https://cs50.harvard.edu/games/2018)
+## Web apps
 
-## Independent
+### StackStore
 
-### Web apps
+[Repository](https://github.com/yndajas/StackStore) | [demo](https://www.youtube.com/watch?v=47qTNiLzgQU) | [deployment](http://stackstore.yndajas.co)
 
--   [StackStore](https://github.com/yndajas/StackStore): React/Redux (JavaScript) + Rails API (Ruby) + SCSS \[FS; [demo](https://www.youtube.com/watch?v=47qTNiLzgQU); [deployment on GitHub](http://stackstore.yndajas.co) (Heroku backend)]
--   [JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats): JavaScript + Rails API (Ruby) + SCSS \[FS; [demo](https://www.youtube.com/watch?v=x-QS4K6tN78); [deployment on GitHub](http://jazzcatcom.yndajas.co) (Heroku backend)]
--   [Workinonit](https://github.com/yndajas/Workinonit): Rails (Ruby) + a little JavaScript + SCSS \[FS; [demo](https://www.youtube.com/watch?v=PYwX1QGj6os); [deployment on Heroku](http://workinonit.yndajas.co)]
--   [Racqueteer](https://github.com/yndajas/Racqueteer): Sinatra (Ruby) + a little JavaScript + HTML/CSS \[FS; [demo](https://www.youtube.com/watch?v=nK35Tuxfkso); [deployment on Heroku](http://racqueteer.yndajas.co)]
+Web app for finding, keeping, tagging and making notes on Stack Overflow questions
+- Used React, a Rails API and SCSS to build an efficient, responsive app
+- Employed Redux-based state management, with local state for controlled forms
+- Created PostgreSQL database for Heroku compatibility, used ActiveRecord queries and model-level validations for ensure data quality ~ <i>also on JazzCatCom, Workinonit; Racqueteer sans validations</i>
+- Made external API AJAX fetch requests to retrieve question and answer data ~ <i>also on JazzCatCom</i>
 
-### Tools
+<div>
+  <img src="https://github.com/yndajas/StackStore/blob/main/public/images/favicon/android-chrome-192x192.png" alt="StackStore logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
+</div>
 
--   [Selected Text Readability](https://github.com/yndajas/selected-text-readability) Chrome extension: JavaScript + a little HTML/CSS \[CS50; [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA); [deployment on Chrome web Store](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)]
--   [PSNProfiles Player Scraper](https://github.com/yndajas/PSNProfiles-player-scraper) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)]
+### JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats
+[Repository](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats) | [demo](https://www.youtube.com/watch?v=x-QS4K6tN78) | [deployment](http://jazzcatcom.yndajas.co)
 
-### Static sites
+Web app for discovering and saving jazz, cats and comedy
+- Used class-based JavaScript, a Rails API and SCSS to build a fun, single-page app
+- Implemented token-based authorisation with email/password authentication ~ <i>also on StackStore</i>
+- Deployed on GitHub Pages and Heroku ~ <i>also on StackStore; Workinonit, Racqueteer fully Heroku</i>
+
+<div>
+  <img src="https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/blob/main/src/images/favicon/android-chrome-192x192.png" alt="JazzCatCom logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
+</div>
+
+### Workinonit
+[Repository](https://github.com/yndajas/Workinonit) | [demo](https://www.youtube.com/watch?v=PYwX1QGj6os) | [deployment](http://workinonit.yndajas.co)
+
+Web app for searching for jobs and keeping track of applications 
+- Used Rails with a model-view-controller pattern, JavaScript and SCSS to build a complex app
+- Built scrapers using Nokogiri for three different websites to gather data for finding and saving jobs
+- Integrated authentication via email/password with bcrypt, as well as via Facebook, GitHub and Google as OAuth strategies using OmniAuth ~ <i>also on Racqueteer sans OAuth</i>
+
+<div>
+  <img src="https://github.com/yndajas/Workinonit/blob/main/app/assets/images/favicon/android-chrome-192x192.png" alt="Workinonit logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
+</div>
+
+### Racqueteer
+[Repository](https://github.com/yndajas/Racqueteer) | [demo](https://www.youtube.com/watch?v=nK35Tuxfkso) | [deployment](http://racqueteer.yndajas.co)
+
+Web app for keeping track of racquet sports activities: matches, coaching, racquets and more
+- Used Sinatra with a model-view-controller pattern, JavaScript and HTML/CSS to build a complex app
+- Followed RESTful patterns for transparent routing ~ <i>also on StackStore, JazzCatCom, Workinonit</i>
+- Combined Bootstrap with custom (S)CSS and developed custom, clean branding to create a polished, enjoyable experience ~ <i>also on StackStore, JazzCatCom, Workinonit, Selected Text Readability</i>
+
+<div>
+  <img src="https://github.com/yndajas/Racqueteer/blob/main/public/favicons/android-chrome-192x192.png" alt="Racqueteer logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
+</div>
+
+## Tools
+
+### Selected Text Readability
+[Repository](https://github.com/yndajas/selected-text-readability) | [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA) | [release](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)
+
+Chrome extension for measuring readability of selected text
+- Used JavaScript and CSS to build a lightweight Chrome extension
+
+<div>
+  <img src="https://github.com/yndajas/selected-text-readability/blob/main/icons/icon128.png" alt="Selected Text Readability logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
+</div>
+
+### PSNProfiles Player Scraper
+[Repository](https://github.com/yndajas/PSNProfiles-player-scraper) | [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)
+
+Command-line interface app for viewing, comparing and exporting data from PSNProfiles player pages
+- Used Ruby to create a simple, clean command-line interface app with a number of useful features
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+</div>
+
+## Static sites
 
 -   [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): HTML/SCSS + JavaScript
--   [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript \[CS50]
+-   [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript
 -   [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
+-   [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll (Ruby) + HTML/CSS \[collaborative project\]
 
-## Collaborative
+<hr />
 
-### Static sites
-
--   [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll (Ruby) + HTML/CSS
-
-## Guided
-
-### Web apps
-
--   [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails API (Ruby) \[FS]
--   [Rails amusement park](https://github.com/yndajas/rails-amusement-park-online-web-sp-000): Rails (Ruby) + HTML \[FS]
--   [Fwitter](https://github.com/yndajas/sinatra-fwitter-group-project-online-web-sp-000): Sinatra (Ruby) + HTML/CSS \[FS]
--   [CS50 Finance](https://github.com/yndajas/cs50_2020_pset8_finance): Flask (Python) + HTML with API integration \[CS50]
-
-### Games
-
--   Flappy Bird mod \[private repository, code on request]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=sxE1qx6wy1c)]
-    -   countdown audio
-    -   randomisation of gap between pipes within pairs and between pairs of pipes
-    -   ceiling collision
-    -   pause state including audio
-    -   bronze, silver and gold medals on score screen for passing 3, 6 and 9 points respectively
--   Pong AI mod \[private repository; code on request]: LÖVE/Love 2D (Lua) \[GD50; [demo](https://www.youtube.com/watch?v=Cjdwoz1tBIQ)]
--   [Tic-Tac-Toe](https://github.com/yndajas/ttt-with-ai-project-online-web-sp-000) CLI app: Ruby \[FS; [demo](https://www.youtube.com/watch?v=_M3nB_ZpLBE)]
-
-### Libraries
-
--   [functional programming implementations of built-in JavaScript methods](https://github.com/yndajas/js-advanced-functions-functional-library-project-online-web-sp-000): JavaScript \[FS]
-    -   collection functions (arrays or objects): `each`, `map`, `reduce`, `find`, `filter`, `size`
-    -   array functions: `first`, `last`, `compact`, `sortBy`, `flatten`, `uniq`
-    -   object functions: `keys`, `values` (also works with arrays, allowing you to pass an array or object - e.g. if of unknown type - and get the values), `functions`
-
-### Miscellaneous problem sets
-
-CS50 problem sets listed roughly in ascending order of complexity within each line. Nihongooo! and CS50 Finance listed above are also CS50 problem set solutions. Flatiron School labs are too numerous to list here, so I've included just a few key examples above.
-
--   [Hello](https://github.com/yndajas/cs50_2020_pset1_hello), [Mario (more)](https://github.com/yndajas/cs50_2020_pset1_Mario_more), [Cash](https://github.com/yndajas/cs50_2020_pset1_cash), [Credit](https://github.com/yndajas/cs50_2020_pset1_credit), [Caesar](https://github.com/yndajas/cs50_2020_pset2_Caesar), [Readability](https://github.com/yndajas/cs50_2020_pset2_readability), [Substitution](https://github.com/yndajas/cs50_2020_pset2_substitution), [Plurality](https://github.com/yndajas/cs50_2020_pset3_plurality), [Runoff](https://github.com/yndajas/cs50_2020_pset3_runoff), [Filter (less)](https://github.com/yndajas/cs50_2020_pset4_filter_less), [Recover](https://github.com/yndajas/cs50_2020_pset4_recover), [Speller](https://github.com/yndajas/cs50_2020_pset5_speller): C \[CS50]
--   [Hello](https://github.com/yndajas/cs50_2020_pset6_hello), [Mario (more)](https://github.com/yndajas/cs50_2020_pset6_Mario_more), [Credit](https://github.com/yndajas/cs50_2020_pset6_credit), [Readability](https://github.com/yndajas/cs50_2020_pset6_readability), [DNA](https://github.com/yndajas/cs50_2020_pset6_DNA), [Movies](https://github.com/yndajas/cs50_2020_pset7_movies): Python \[CS50]
--   [Houses](https://github.com/yndajas/cs50_2020_pset7_houses): SQL \[CS50]
+👉 check out my [guided projects](https://github.com/yndajas/yndajas/blob/main/guided_projects.md) README for a breakdown of substantial labs and problem sets completed as part of Flatiron School's full-stack software engineering bootcamp, Harvard's CS50 Introduction to Computer Science and CS50's Introduction to Game Development
