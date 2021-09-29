@@ -1,17 +1,13 @@
 # 👋 Hello!
 
-I'm Ynda ([they/them](https://pronoun.is/they/.../themself)), a software engineer experienced in Ruby (inc. Rails) and JavaScript-based programming (inc. React and Redux) with a background in education, research and community-building. I possess strong skills in collaboration, data analysis/quality and communication of complex information which help not-for-profits and progressive organisations deliver high-quality, person-centric services.
+I'm Ynda ([they/them](https://pronoun.is/they/.../themself); 🔊 in-duh), a software engineer experienced in Ruby (inc. Rails) and JavaScript-based programming (inc. React and Redux) with a background in education, research and community-building. I possess strong skills in collaboration, data analysis/quality and communication of complex information which help not-for-profits and progressive organisations deliver high-quality, person-centric services.
+
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yndajas), [Twitter](https://twitter.com/yndajas) or by email: [yndajas@gmail.com](mailto:yndajas@gmail.com)
+<br/>
+📚 Check out my [coding blog](https://yndajas.co/blog/categories/coding) and [CV](YJ_CV_210926.pdf)
 
 ![](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
-
-# 🔗 Links
-
--   [CV](YJ_CV_210926.pdf)
--   [LinkedIn](https://www.linkedin.com/in/yndajas)
--   [Coding blog](https://yndajas.co/blog/categories/coding)
--   [Twitter](https://twitter.com/yndajas)
--   [yndajas@gmail.com](mailto:yndajas@gmail.com)
 
 # 👩‍💻 Projects
 
@@ -20,8 +16,7 @@ I'm Ynda ([they/them](https://pronoun.is/they/.../themself)), a software enginee
 ## Web apps
 
 ### StackStore
-
-[Repository](https://github.com/yndajas/StackStore) | [demo](https://www.youtube.com/watch?v=47qTNiLzgQU) | [deployment](http://stackstore.yndajas.co)
+[repository](https://github.com/yndajas/StackStore) | [demo](https://www.youtube.com/watch?v=47qTNiLzgQU) | [deployment](http://stackstore.yndajas.co)
 
 Web app for finding, keeping, tagging and making notes on Stack Overflow questions
 - Used React, a Rails API and SCSS to build an efficient, responsive app
@@ -45,7 +40,7 @@ Web app for finding, keeping, tagging and making notes on Stack Overflow questio
 </div>
 
 ### JazzCatCom: Comedy, Cats and Chris Dave's Hi-hats
-[Repository](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats) | [demo](https://www.youtube.com/watch?v=x-QS4K6tN78) | [deployment](http://jazzcatcom.yndajas.co)
+[repository](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats) | [demo](https://www.youtube.com/watch?v=x-QS4K6tN78) | [deployment](http://jazzcatcom.yndajas.co)
 
 Web app for discovering and saving jazz, cats and comedy
 - Used class-based JavaScript, a Rails API and SCSS to build a fun, single-page app
@@ -53,7 +48,7 @@ Web app for discovering and saving jazz, cats and comedy
 - Deployed on GitHub Pages and Heroku ~ <i>also on StackStore; Workinonit, Racqueteer fully Heroku</i>
 
 <div>
-  <img src="https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/blob/main/src/images/favicon/android-chrome-192x192.png" alt="JazzCatCom logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/blob/main/src/images/favicon/android-chrome-192x192.png" alt="JazzCatCom logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -66,7 +61,7 @@ Web app for discovering and saving jazz, cats and comedy
 </div>
 
 ### Workinonit
-[Repository](https://github.com/yndajas/Workinonit) | [demo](https://www.youtube.com/watch?v=PYwX1QGj6os) | [deployment](http://workinonit.yndajas.co)
+[repository](https://github.com/yndajas/Workinonit) | [demo](https://www.youtube.com/watch?v=PYwX1QGj6os) | [deployment](http://workinonit.yndajas.co)
 
 Web app for searching for jobs and keeping track of applications 
 - Used Rails with a model-view-controller pattern, JavaScript and SCSS to build a complex app
@@ -87,7 +82,7 @@ Web app for searching for jobs and keeping track of applications
 </div>
 
 ### Racqueteer
-[Repository](https://github.com/yndajas/Racqueteer) | [demo](https://www.youtube.com/watch?v=nK35Tuxfkso) | [deployment](http://racqueteer.yndajas.co)
+[repository](https://github.com/yndajas/Racqueteer) | [demo](https://www.youtube.com/watch?v=nK35Tuxfkso) | [deployment](http://racqueteer.yndajas.co)
 
 Web app for keeping track of racquet sports activities: matches, coaching, racquets and more
 - Used Sinatra with a model-view-controller pattern, JavaScript and HTML/CSS to build a complex app
@@ -109,7 +104,7 @@ Web app for keeping track of racquet sports activities: matches, coaching, racqu
 ## Tools
 
 ### Selected Text Readability
-[Repository](https://github.com/yndajas/selected-text-readability) | [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA) | [release](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)
+[repository](https://github.com/yndajas/selected-text-readability) | [demo](https://www.youtube.com/watch?v=_AP_qb5wuMA) | [release](https://chrome.google.com/webstore/detail/selected-text-readability/gmmgeofdbimelpnapecnbdckopibaecl)
 
 Chrome extension for measuring readability of selected text
 - Used JavaScript and CSS to build a lightweight Chrome extension
@@ -124,7 +119,7 @@ Chrome extension for measuring readability of selected text
 </div>
 
 ### PSNProfiles Player Scraper
-[Repository](https://github.com/yndajas/PSNProfiles-player-scraper) | [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)
+[repository](https://github.com/yndajas/PSNProfiles-player-scraper) | [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)
 
 Command-line interface app for viewing, comparing and exporting data from PSNProfiles player pages
 - Used Ruby to create a simple, clean command-line interface app with a number of useful features
