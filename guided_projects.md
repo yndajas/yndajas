@@ -1,5 +1,11 @@
 # Guided projects
 
+Key:
+
+-   FS = projects completed as part of [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/online) studies
+-   CS50 = projects completed as part of [Harvard's CS50 Introduction to Computer Science](https://cs50.harvard.edu/x/2020)
+-   GD50 = projects completed as part of [Harvard's GD50/CS50G/CS50's Introduction to Game Development](https://cs50.harvard.edu/games/2018)
+
 ## Web apps
 
 -   [Pokémon teams](https://github.com/yndajas/js-rails-as-api-pokemon-teams-project-online-web-sp-000): JavaScript + Rails API (Ruby) \[FS]
