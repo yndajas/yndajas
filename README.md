@@ -25,7 +25,7 @@ Web app for finding, keeping, tagging and making notes on Stack Overflow questio
 - Made external API AJAX fetch requests to retrieve question and answer data ~ <i>also on JazzCatCom</i>
 
 <div>
-  <img src="https://github.com/yndajas/StackStore/blob/main/public/images/favicon/android-chrome-192x192.png" alt="StackStore logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/yndajas/StackStore/blob/main/public/images/favicon/android-chrome-192x192.png" alt="StackStore logo" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -48,7 +48,7 @@ Web app for discovering and saving jazz, cats and comedy
 - Deployed on GitHub Pages and Heroku ~ <i>also on StackStore; Workinonit, Racqueteer fully Heroku</i>
 
 <div>
-  <img src="https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/blob/main/src/images/favicon/android-chrome-192x192.png" alt="JazzCatCom logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img src="https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/blob/main/src/images/favicon/android-chrome-192x192.png" alt="JazzCatCom logo" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -69,7 +69,7 @@ Web app for searching for jobs and keeping track of applications
 - Integrated authentication via email/password with bcrypt, as well as via Facebook, GitHub and Google as OAuth strategies using OmniAuth ~ <i>also on Racqueteer sans OAuth</i>
 
 <div>
-  <img src="https://github.com/yndajas/Workinonit/blob/main/app/assets/images/favicon/android-chrome-192x192.png" alt="Workinonit logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/yndajas/Workinonit/blob/main/app/assets/images/favicon/android-chrome-192x192.png" alt="Workinonit logo" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -90,7 +90,7 @@ Web app for keeping track of racquet sports activities: matches, coaching, racqu
 - Combined Bootstrap with custom (S)CSS and developed custom, clean branding to create a polished, enjoyable experience ~ <i>also on StackStore, JazzCatCom, Workinonit, Selected Text Readability</i>
 
 <div>
-  <img src="https://github.com/yndajas/Racqueteer/blob/main/public/favicons/android-chrome-192x192.png" alt="Racqueteer logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/yndajas/Racqueteer/blob/main/public/favicons/android-chrome-192x192.png" alt="Racqueteer logo" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -110,7 +110,7 @@ Chrome extension for measuring readability of selected text
 - Used JavaScript and CSS to build a lightweight Chrome extension
 
 <div>
-  <img src="https://github.com/yndajas/selected-text-readability/blob/main/icons/icon128.png" alt="Selected Text Readability logo" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/yndajas/selected-text-readability/blob/main/icons/icon128.png" alt="Selected Text Readability logo" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
