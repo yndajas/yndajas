@@ -128,6 +128,15 @@ Command-line interface app for viewing, comparing and exporting data from PSNPro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
 </div>
 
+### Algorithms
+[repository](https://github.com/yndajas/Algorithms)
+
+A collection of algorithms implemented in Ruby and/or JavaScript with JSON export functionality, useable via command-line interface or other in apps with `require`
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+</div>
+
 ## Static sites
 
 -   [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): HTML/SCSS + JavaScript
