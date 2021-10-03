@@ -131,7 +131,7 @@ Command-line interface app for viewing, comparing and exporting data from PSNPro
 ### Algorithms
 [repository](https://github.com/yndajas/Algorithms)
 
-A collection of algorithms implemented in Ruby and/or JavaScript with JSON export functionality, useable via command-line interface or other in apps with `require`
+A collection of algorithms implemented in Ruby and/or JavaScript with JSON export functionality, useable via a command-line interface or in other apps with `require`
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
