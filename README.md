@@ -140,7 +140,8 @@ A collection of algorithms implemented in Ruby and/or JavaScript with JSON expor
 ## Static sites
 
 -   [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): HTML/SCSS + JavaScript
--   [Nihingooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript
+-   [Nihongooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript
+-   [El Goog](https://github.com/yndajas/El-Goog): HTML/SCSS + JavaScript
 -   [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
 -   [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll (Ruby) + HTML/CSS \[collaborative project\]
 
