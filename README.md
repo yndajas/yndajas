@@ -118,6 +118,15 @@ Chrome extension for measuring readability of selected text
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
 </div>
 
+### Nihongo scripts
+[repository](https://github.com/yndajas/Nihongo-scripts) | releases: *see README*
+
+Scripts to extend Japanese language learning sites like WaniKani and Bunpro
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+</div>
+
 ### PSNProfiles Player Scraper
 [repository](https://github.com/yndajas/PSNProfiles-player-scraper) | [demo](https://www.youtube.com/watch?v=l1yA_LfLz-c)
 
