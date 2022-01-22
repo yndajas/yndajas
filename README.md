@@ -4,7 +4,7 @@ I'm Ynda ([they/them](https://pronoun.is/they/.../themself); 🔊 in-duh), a sof
 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yndajas), [Twitter](https://twitter.com/yndajas) or by email: [yndajas@gmail.com](mailto:yndajas@gmail.com)
 <br/>
-📚 Check out my [coding blog](https://yndajas.co/blog/categories/coding) and [CV](YJ_CV_220112.pdf)
+📚 Check out my [CV](YJ_CV_220112.pdf)
 
 ![](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
@@ -125,6 +125,15 @@ Scripts to extend Japanese language learning sites like WaniKani and Bunpro
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+</div>
+
+### Twitch YndaBot
+[repository](https://github.com/yndajas/Twitch-YndaBot)
+
+Custom Twitch chat bot with various commands
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
 </div>
 
 ### PSNProfiles Player Scraper
