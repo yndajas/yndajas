@@ -153,6 +153,7 @@ A collection of algorithms implemented in Ruby and/or JavaScript with JSON expor
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
 </div>
 
 ## Static sites
