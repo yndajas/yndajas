@@ -15,6 +15,26 @@ I'm Ynda ([they/them](https://pronoun.is/they/.../themself); 🔊 in-duh), a sof
 
 ## Web apps
 
+### Land Use Finance Impact Hub
+_private repository_ | [teaser](https://twitter.com/unepwcmc/status/1511690396971196418?s=20&t=oZ35JH4l2rysL0ssgi9gpA) | [deployment](https://landuseimpacthub.com/en)
+
+Web app that "harmonises environmental and social impact monitoring for sustainable land use financing. This comprehensive hub makes it easier for investors to ensure that funds are spent efficiently, any potential risks are curtailed, and impacts are monitored and reported against."
+- Co-developed with [@nym1k](https://github.com/nym1k) for [@unepwcmc](https://github.com/unepwcmc)
+- **Stack:** Vue, Nuxt and JavaScript frontend with BEM-style SASS; WordPress backend (CMS/API)
+- **Contribution:**
+    - frontend features and related components (inc. paginated listings pages, carousels, accordions, modals...)
+    - feature-specific API interfacing and data processing
+    - backend WordPress setup (via WordPress admin, not PHP/theme customisation)
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Redux" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+</div>
+
 ### StackStore
 [repository](https://github.com/yndajas/StackStore) | [demo](https://www.youtube.com/watch?v=47qTNiLzgQU) | [deployment](http://stackstore.yndajas.co)
 
