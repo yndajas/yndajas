@@ -4,7 +4,7 @@ I'm Ynda ([they/them](https://pronoun.is/they/.../themself); 🔊 in-duh), a sof
 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yndajas), [Twitter](https://twitter.com/yndajas) or by email: [yndajas@gmail.com](mailto:yndajas@gmail.com)
 <br/>
-📚 Check out my [CV](YJ_CV_220112.pdf)
+📚 Check out my [CV](YJ_CV_220112.pdf) (last updated January 2022)
 
 ![](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
