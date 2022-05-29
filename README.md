@@ -210,4 +210,4 @@ A collection of algorithms implemented in Ruby and/or JavaScript with JSON expor
 
 <hr />
 
-👉 check out my [guided projects](https://github.com/yndajas/yndajas/blob/main/guided_projects.md) README for a breakdown of substantial labs and problem sets completed as part of Flatiron School's full-stack software engineering bootcamp, Harvard's CS50 Introduction to Computer Science and CS50's Introduction to Game Development
+👉 Check out my [guided projects](https://github.com/yndajas/yndajas/blob/main/guided_projects.md) README for a breakdown of substantial labs and problem sets completed as part of Flatiron School's full-stack software engineering bootcamp, Harvard's CS50 Introduction to Computer Science and CS50's Introduction to Game Development
