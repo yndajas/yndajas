@@ -22,7 +22,7 @@ Online platform launched "to raise awareness and inspire action by non-governmen
 - Co-developed with [@RainbowGiantSquid](https://github.com/RainbowGiantSquid) and [@sergiomarrocoli](https://github.com/sergiomarrocoli) for [@unepwcmc](https://github.com/unepwcmc)
 - **Stack:** Vue with SurveyJS forms and Mapbox map; Rails
 - **Contribution:**
-    - main forms using SurveyJS in Vue, including styling (with RainbowGiantSquid)
+    - main forms using SurveyJS in Vue, including Sass styling (with RainbowGiantSquid)
     - dashboard including hero, table with list of commitments and CRUD actions
     - various backend and frontend fixes and functionality extensions, including client and design edits and work on Mapbox implementation and form file uploads
 
@@ -32,7 +32,7 @@ Online platform launched "to raise awareness and inspire action by non-governmen
   <img src="https://avatars.githubusercontent.com/u/25198306?s=200&v=4" alt="SurveyJS" width="40" />&nbsp;&nbsp;
   <img src="https://symbols.getvecta.com/stencil_88/17_mapbox-icon.c5848ea948.svg" alt="Mapbox" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" />&nbsp;&nbsp;
@@ -44,7 +44,7 @@ _private repository_ | [teaser](https://twitter.com/unepwcmc/status/151169039697
 
 Web app that "harmonises environmental and social impact monitoring for sustainable land use financing. This comprehensive hub makes it easier for investors to ensure that funds are spent efficiently, any potential risks are curtailed, and impacts are monitored and reported against"
 - Co-developed with [@nym1k](https://github.com/nym1k) for [@unepwcmc](https://github.com/unepwcmc)
-- **Stack:** Vue, Nuxt and JavaScript frontend with BEM-style SASS; WordPress backend (CMS/API)
+- **Stack:** Vue, Nuxt and JavaScript frontend with BEM-style Sass; WordPress backend (CMS/API)
 - **Contribution:**
     - frontend features and related components (inc. paginated listings pages, carousels, accordions, modals...)
     - feature-specific API interfacing and data processing
@@ -55,7 +55,7 @@ Web app that "harmonises environmental and social impact monitoring for sustaina
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
 </div>
 
@@ -63,7 +63,7 @@ Web app that "harmonises environmental and social impact monitoring for sustaina
 [repository](https://github.com/yndajas/StackStore) | [demo](https://www.youtube.com/watch?v=47qTNiLzgQU) | [deployment](http://stackstore.yndajas.co)
 
 Web app for finding, keeping, tagging and making notes on Stack Overflow questions
-- Used React, a Rails API and SCSS to build an efficient, responsive app
+- Used React, a Rails API and Sass to build an efficient, responsive app
 - Employed Redux-based state management, with local state for controlled forms
 - Created PostgreSQL database for Heroku compatibility, used ActiveRecord queries and model-level validations for ensure data quality ~ <i>also on JazzCatCom, Workinonit; Racqueteer sans validations</i>
 - Made external API AJAX fetch requests to retrieve question and answer data ~ <i>also on JazzCatCom</i>
@@ -77,7 +77,7 @@ Web app for finding, keeping, tagging and making notes on Stack Overflow questio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
@@ -87,7 +87,7 @@ Web app for finding, keeping, tagging and making notes on Stack Overflow questio
 [repository](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats) | [demo](https://www.youtube.com/watch?v=x-QS4K6tN78) | [deployment](http://jazzcatcom.yndajas.co)
 
 Web app for discovering and saving jazz, cats and comedy
-- Used class-based JavaScript, a Rails API and SCSS to build a fun, single-page app
+- Used class-based JavaScript, a Rails API and Sass to build a fun, single-page app
 - Implemented token-based authorisation with email/password authentication ~ <i>also on StackStore</i>
 - Deployed on GitHub Pages and Heroku ~ <i>also on StackStore; Workinonit, Racqueteer fully Heroku</i>
 
@@ -98,7 +98,7 @@ Web app for discovering and saving jazz, cats and comedy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
@@ -108,7 +108,7 @@ Web app for discovering and saving jazz, cats and comedy
 [repository](https://github.com/yndajas/Workinonit) | [demo](https://www.youtube.com/watch?v=PYwX1QGj6os) | [deployment](http://workinonit.yndajas.co)
 
 Web app for searching for jobs and keeping track of applications 
-- Used Rails with a model-view-controller pattern, JavaScript and SCSS to build a complex app
+- Used Rails with a model-view-controller pattern, JavaScript and Sass to build a complex app
 - Built scrapers using Nokogiri for three different websites to gather data for finding and saving jobs
 - Integrated authentication via email/password with bcrypt, as well as via Facebook, GitHub and Google as OAuth strategies using OmniAuth ~ <i>also on Racqueteer sans OAuth</i>
 
@@ -119,7 +119,7 @@ Web app for searching for jobs and keeping track of applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass/SCSS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" />
@@ -202,9 +202,9 @@ A collection of algorithms implemented in Ruby and/or JavaScript with JSON expor
 
 ## Static sites
 
--   [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): HTML/SCSS + JavaScript
+-   [Sexuality in a non-binary world](https://github.com/yndajas/sexuality-in-a-non-binary-world): Jekyll (Ruby) + HTML/Sass + JavaScript
 -   [Nihongooo!](https://github.com/yndajas/Nihongooo): HTML/CSS + a little JavaScript
--   [El Goog](https://github.com/yndajas/El-Goog): HTML/SCSS + JavaScript
+-   [El Goog](https://github.com/yndajas/El-Goog): HTML/Sass + JavaScript
 -   [yndajas.co](https://github.com/yndajas/yndajas.co): Jekyll (Ruby) + HTML/CSS
 -   [Non-binary London](https://github.com/nonbinarylondon/Non-binary-London-website): Jekyll (Ruby) + HTML/CSS \[collaborative project\]
 
