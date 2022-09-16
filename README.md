@@ -30,7 +30,7 @@ Online platform launched "to raise awareness and inspire action by non-governmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" />&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/25198306?s=200&v=4" alt="SurveyJS" width="40" />&nbsp;&nbsp;
-  <img src="https://symbols.getvecta.com/stencil_88/17_mapbox-icon.c5848ea948.svg" alt="Mapbox" width="40" />&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/M/mapbox-logo-D6FDDD219C-seeklogo.com.png" alt="Mapbox" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
