@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm Ynda ([they/them](https://pronoun.is/they/.../themself); 🔊 in-duh), a software engineer experienced in Ruby (inc. Rails) and JavaScript-based programming (inc. TypeScript, Vue and React) with a background in education, research and community-building. Strong skills in collaboration, data analysis and communication of complex information which support delivery of high-quality, person-centric services.
+I'm Ynda ([they/them](https://name.pn/ynda-jas#pronouns); 🔊 [in-duh](https://name.pn/ynda-jas#pronunciation)), a software engineer experienced in Ruby (inc. Rails) and JavaScript-based programming (inc. TypeScript, Vue and React) with a background in education, research and community-building. Strong skills in collaboration, data analysis and communication of complex information which support delivery of high-quality, person-centric services.
 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yndajas), [Twitter](https://twitter.com/yndajas) or by email: [yndajas@gmail.com](mailto:yndajas@gmail.com)
 <br/>
