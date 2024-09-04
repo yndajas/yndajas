@@ -1,4 +1,7 @@
-# 👩‍💻 Projects
+# 👩‍💻 Projects (unmaintained)
+
+> [!NOTE]  
+> I no longer maintaining this file
 
 <!-- Icons from https://devicon.dev -->
 
@@ -220,4 +223,4 @@ A collection of algorithms implemented in Ruby and/or JavaScript with JSON expor
 
 <hr />
 
-👉 Check out my [guided projects](https://github.com/yndajas/yndajas/blob/main/guided_projects.md) README for a breakdown of substantial labs and problem sets completed as part of Flatiron School's full-stack software engineering bootcamp, Harvard's CS50 Introduction to Computer Science and CS50's Introduction to Game Development
+👉 Check out my [guided projects](guided_projects.md) README for a breakdown of substantial labs and problem sets completed as part of Flatiron School's full-stack software engineering bootcamp, Harvard's CS50 Introduction to Computer Science and CS50's Introduction to Game Development

@@ -1,4 +1,7 @@
-# Guided projects
+# Guided projects (unmaintained)
+
+> [!NOTE]  
+> I no longer maintaining this file
 
 Key:
 
