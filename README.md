@@ -37,3 +37,4 @@ I'm also working on a multiplayer game inspired by [Colourbrain](https://bigpota
 
 - [dxw's playbook](https://github.com/dxw/playbook) - a Jekyll site using Decap CMS
 - [personal website](https://github.com/yndajas/simple-website) - a simple site in terms of content, but a low tech playground (useful features with minimal dependencies)
+- [dotfiles](https://github.com/yndajas/dotfiles) - my dotfiles with a setup script powered by [dotbot](https://github.com/anishathalye/dotbot?tab=readme-ov-file#full-example)
