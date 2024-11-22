@@ -1,0 +1,59 @@
+{
+  "data": {
+    "viewer": {
+      "contributionsCollection": {
+        "startedAt": "2019-01-01T00:00:00Z",
+        "endedAt": "2019-12-31T23:59:59Z",
+        "totalCommitContributions": 10,
+        "totalRepositoriesWithContributedCommits": 2,
+        "commitContributionsByRepository": [
+          {
+            "repository": {
+              "name": "yndajas.co",
+              "description": "Website for Ynda Jas",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/yndajas.co",
+              "url": "https://github.com/yndajas/yndajas.co"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/yndajas/yndajas.co/commits?author=yndajas&since=2019-01-01&until=2020-01-01"
+          },
+          {
+            "repository": {
+              "name": "Non-binary-London-website",
+              "description": "Former Non-binary London website",
+              "owner": {
+                "name": "Non-binary London",
+                "resourcePath": "/nonbinarylondon",
+                "url": "https://github.com/nonbinarylondon"
+              },
+              "resourcePath": "/nonbinarylondon/Non-binary-London-website",
+              "url": "https://github.com/nonbinarylondon/Non-binary-London-website"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/nonbinarylondon/Non-binary-London-website/commits?author=yndajas&since=2019-01-01&until=2020-01-01"
+          }
+        ],
+        "totalIssueContributions": 0,
+        "totalRepositoriesWithContributedIssues": 0,
+        "totalPullRequestContributions": 0,
+        "totalRepositoriesWithContributedPullRequests": 0,
+        "totalPullRequestReviewContributions": 0,
+        "totalRepositoriesWithContributedPullRequestReviews": 0,
+        "totalRepositoryContributions": 0,
+        "contributionCalendar": {
+          "totalContributions": 10
+        },
+        "hasActivityInThePast": true
+      }
+    }
+  }
+}

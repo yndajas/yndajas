@@ -1,0 +1,93 @@
+{
+  "data": {
+    "viewer": {
+      "contributionsCollection": {
+        "startedAt": "2020-01-01T00:00:00Z",
+        "endedAt": "2020-12-31T23:59:59Z",
+        "totalCommitContributions": 82,
+        "totalRepositoriesWithContributedCommits": 4,
+        "commitContributionsByRepository": [
+          {
+            "repository": {
+              "name": "PSNProfiles-player-scraper",
+              "description": "View, compare and export data from PSNProfiles player pages via a terminal",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/PSNProfiles-player-scraper",
+              "url": "https://github.com/yndajas/PSNProfiles-player-scraper"
+            },
+            "contributions": {
+              "totalCount": 47
+            },
+            "url": "https://github.com/yndajas/PSNProfiles-player-scraper/commits?author=yndajas&since=2020-01-01&until=2021-01-01"
+          },
+          {
+            "repository": {
+              "name": "selected-text-readability",
+              "description": "Chrome extension for measuring readability of selected text",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/selected-text-readability",
+              "url": "https://github.com/yndajas/selected-text-readability"
+            },
+            "contributions": {
+              "totalCount": 19
+            },
+            "url": "https://github.com/yndajas/selected-text-readability/commits?author=yndajas&since=2020-01-01&until=2021-01-01"
+          },
+          {
+            "repository": {
+              "name": "learn-co-sandbox",
+              "description": "Note: the PSNProfiles player scraper I started developing here has been moved to a separate repository \"PSNProfiles-player-scraper\"",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/learn-co-sandbox",
+              "url": "https://github.com/yndajas/learn-co-sandbox"
+            },
+            "contributions": {
+              "totalCount": 11
+            },
+            "url": "https://github.com/yndajas/learn-co-sandbox/commits?author=yndajas&since=2020-01-01&until=2021-01-01"
+          },
+          {
+            "repository": {
+              "name": "yndajas.co",
+              "description": "Website for Ynda Jas",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/yndajas.co",
+              "url": "https://github.com/yndajas/yndajas.co"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/yndajas/yndajas.co/commits?author=yndajas&since=2020-01-01&until=2021-01-01"
+          }
+        ],
+        "totalIssueContributions": 7,
+        "totalRepositoriesWithContributedIssues": 7,
+        "totalPullRequestContributions": 184,
+        "totalRepositoriesWithContributedPullRequests": 182,
+        "totalPullRequestReviewContributions": 0,
+        "totalRepositoriesWithContributedPullRequestReviews": 0,
+        "totalRepositoryContributions": 101,
+        "contributionCalendar": {
+          "totalContributions": 374
+        },
+        "hasActivityInThePast": true
+      }
+    }
+  }
+}

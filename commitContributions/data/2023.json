@@ -1,0 +1,586 @@
+{
+  "data": {
+    "viewer": {
+      "contributionsCollection": {
+        "startedAt": "2023-01-01T00:00:00Z",
+        "endedAt": "2023-12-31T23:59:59Z",
+        "totalCommitContributions": 1915,
+        "totalRepositoriesWithContributedCommits": 33,
+        "commitContributionsByRepository": [
+          {
+            "repository": {
+              "name": "hmpps-accredited-programmes-ui",
+              "description": "User interface for the Accredited Programmes service",
+              "owner": {
+                "name": "Ministry of Justice",
+                "resourcePath": "/ministryofjustice",
+                "url": "https://github.com/ministryofjustice"
+              },
+              "resourcePath": "/ministryofjustice/hmpps-accredited-programmes-ui",
+              "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-ui"
+            },
+            "contributions": {
+              "totalCount": 862
+            },
+            "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-ui/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "beis-report-official-development-assistance",
+              "description": "Report Official Development Assistance (RODA)",
+              "owner": {
+                "name": "Department of Business, Energy and Industrial Strategy",
+                "resourcePath": "/UKGovernmentBEIS",
+                "url": "https://github.com/UKGovernmentBEIS"
+              },
+              "resourcePath": "/UKGovernmentBEIS/beis-report-official-development-assistance",
+              "url": "https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance"
+            },
+            "contributions": {
+              "totalCount": 178
+            },
+            "url": "https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "playbook",
+              "description": "How we do things at dxw",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/playbook",
+              "url": "https://github.com/dxw/playbook"
+            },
+            "contributions": {
+              "totalCount": 151
+            },
+            "url": "https://github.com/dxw/playbook/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "ludum-dare-54",
+              "description": "A game made for Ludum Dare 54",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/ludum-dare-54",
+              "url": "https://github.com/yndajas/ludum-dare-54"
+            },
+            "contributions": {
+              "totalCount": 129
+            },
+            "url": "https://github.com/yndajas/ludum-dare-54/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "qgjam-2023",
+              "description": "A game made for The Queerness and Games Jam 2023",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/qgjam-2023",
+              "url": "https://github.com/yndajas/qgjam-2023"
+            },
+            "contributions": {
+              "totalCount": 124
+            },
+            "url": "https://github.com/yndajas/qgjam-2023/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "1-bit-jam-2",
+              "description": "A game made with Weli Yu for 1-BIT JAM 2",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/1-bit-jam-2",
+              "url": "https://github.com/yndajas/1-bit-jam-2"
+            },
+            "contributions": {
+              "totalCount": 113
+            },
+            "url": "https://github.com/yndajas/1-bit-jam-2/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "simple-website",
+              "description": "A new, probably simpler website",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/simple-website",
+              "url": "https://github.com/yndajas/simple-website"
+            },
+            "contributions": {
+              "totalCount": 79
+            },
+            "url": "https://github.com/yndajas/simple-website/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "hmpps-accredited-programmes-e2e",
+              "description": "End to End Tests for the Accredited Programmes project",
+              "owner": {
+                "name": "Ministry of Justice",
+                "resourcePath": "/ministryofjustice",
+                "url": "https://github.com/ministryofjustice"
+              },
+              "resourcePath": "/ministryofjustice/hmpps-accredited-programmes-e2e",
+              "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-e2e"
+            },
+            "contributions": {
+              "totalCount": 50
+            },
+            "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-e2e/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "js-cop-games",
+              "description": "A repo for the Javascript community of practice's games",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/js-cop-games",
+              "url": "https://github.com/dxw/js-cop-games"
+            },
+            "contributions": {
+              "totalCount": 30
+            },
+            "url": "https://github.com/dxw/js-cop-games/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "accessibility-manual",
+              "description": "How we do accessibility at dxw",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/accessibility-manual",
+              "url": "https://github.com/dxw/accessibility-manual"
+            },
+            "contributions": {
+              "totalCount": 25
+            },
+            "url": "https://github.com/dxw/accessibility-manual/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "hmpps-accredited-programmes-api",
+              "description": "API for the Accredited Programmes service",
+              "owner": {
+                "name": "Ministry of Justice",
+                "resourcePath": "/ministryofjustice",
+                "url": "https://github.com/ministryofjustice"
+              },
+              "resourcePath": "/ministryofjustice/hmpps-accredited-programmes-api",
+              "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-api"
+            },
+            "contributions": {
+              "totalCount": 23
+            },
+            "url": "https://github.com/ministryofjustice/hmpps-accredited-programmes-api/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "advent-of-code",
+              "description": "Advent of Code solutions",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/advent-of-code",
+              "url": "https://github.com/yndajas/advent-of-code"
+            },
+            "contributions": {
+              "totalCount": 20
+            },
+            "url": "https://github.com/yndajas/advent-of-code/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "game-off-2023",
+              "description": "Making a game for Game Off 2023",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/game-off-2023",
+              "url": "https://github.com/yndajas/game-off-2023"
+            },
+            "contributions": {
+              "totalCount": 17
+            },
+            "url": "https://github.com/yndajas/game-off-2023/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "nest-template",
+              "description": " A template repository for use when starting a new app with NestJS. It includes dxw default project configuration and decision records. ",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/nest-template",
+              "url": "https://github.com/dxw/nest-template"
+            },
+            "contributions": {
+              "totalCount": 16
+            },
+            "url": "https://github.com/dxw/nest-template/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "rails-template",
+              "description": "A template repository for use when starting a new app with Rails. It includes dxw default project configuration and decision records.",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/rails-template",
+              "url": "https://github.com/dxw/rails-template"
+            },
+            "contributions": {
+              "totalCount": 16
+            },
+            "url": "https://github.com/dxw/rails-template/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "tech-team-rfcs",
+              "description": "dxw staff use this repository as a forum to make and document technical decisions.",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/tech-team-rfcs",
+              "url": "https://github.com/dxw/tech-team-rfcs"
+            },
+            "contributions": {
+              "totalCount": 15
+            },
+            "url": "https://github.com/dxw/tech-team-rfcs/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "video-game-library",
+              "description": "Playing around with building a video game library with PSN API integration",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/video-game-library",
+              "url": "https://github.com/yndajas/video-game-library"
+            },
+            "contributions": {
+              "totalCount": 14
+            },
+            "url": "https://github.com/yndajas/video-game-library/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "Nihongo-scripts",
+              "description": "Scripts to extend Japanese language learning sites like WaniKani and Bunpro",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/Nihongo-scripts",
+              "url": "https://github.com/yndajas/Nihongo-scripts"
+            },
+            "contributions": {
+              "totalCount": 9
+            },
+            "url": "https://github.com/yndajas/Nihongo-scripts/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "dfsseta-apply-for-landing-ruby",
+              "description": "The Ruby instance of the model Apply for Landing service",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/dfsseta-apply-for-landing-ruby",
+              "url": "https://github.com/dxw/dfsseta-apply-for-landing-ruby"
+            },
+            "contributions": {
+              "totalCount": 7
+            },
+            "url": "https://github.com/dxw/dfsseta-apply-for-landing-ruby/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "breathehr-leave-converter",
+              "description": "Adds a conversion of leave from hours and minutes to days",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/breathehr-leave-converter",
+              "url": "https://github.com/yndajas/breathehr-leave-converter"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/yndajas/breathehr-leave-converter/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "ruby-developer-worksim-template",
+              "description": null,
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/ruby-developer-worksim-template",
+              "url": "https://github.com/dxw/ruby-developer-worksim-template"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/dxw/ruby-developer-worksim-template/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "yndajas",
+              "description": "Profile README",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/yndajas",
+              "url": "https://github.com/yndajas/yndajas"
+            },
+            "contributions": {
+              "totalCount": 4
+            },
+            "url": "https://github.com/yndajas/yndajas/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "scripts-to-rule-them-all",
+              "description": "Some repository-agnostic scripts to rule them all",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/scripts-to-rule-them-all",
+              "url": "https://github.com/yndajas/scripts-to-rule-them-all"
+            },
+            "contributions": {
+              "totalCount": 4
+            },
+            "url": "https://github.com/yndajas/scripts-to-rule-them-all/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "tech-radar",
+              "description": "A Technology Radar for dxw, currently an eary-stage experiment.",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/tech-radar",
+              "url": "https://github.com/dxw/tech-radar"
+            },
+            "contributions": {
+              "totalCount": 4
+            },
+            "url": "https://github.com/dxw/tech-radar/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "node-for-rails-devs",
+              "description": "Materials to cross-train our rails devs into the node ecosystem.",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/node-for-rails-devs",
+              "url": "https://github.com/dxw/node-for-rails-devs"
+            },
+            "contributions": {
+              "totalCount": 4
+            },
+            "url": "https://github.com/dxw/node-for-rails-devs/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "hmpps-approved-premises-ui",
+              "description": "The user interface for the Approved Premises Service",
+              "owner": {
+                "name": "Ministry of Justice",
+                "resourcePath": "/ministryofjustice",
+                "url": "https://github.com/ministryofjustice"
+              },
+              "resourcePath": "/ministryofjustice/hmpps-approved-premises-ui",
+              "url": "https://github.com/ministryofjustice/hmpps-approved-premises-ui"
+            },
+            "contributions": {
+              "totalCount": 2
+            },
+            "url": "https://github.com/ministryofjustice/hmpps-approved-premises-ui/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "scripts-to-rule-them-all",
+              "description": "Template scripts to use in projects, based on GitHub's pattern with the same name",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/scripts-to-rule-them-all",
+              "url": "https://github.com/dxw/scripts-to-rule-them-all"
+            },
+            "contributions": {
+              "totalCount": 2
+            },
+            "url": "https://github.com/dxw/scripts-to-rule-them-all/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "brand-rotator",
+              "description": "Automate rotating dxw's branding colour themes",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/brand-rotator",
+              "url": "https://github.com/dxw/brand-rotator"
+            },
+            "contributions": {
+              "totalCount": 2
+            },
+            "url": "https://github.com/dxw/brand-rotator/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "eslint-plugin-import",
+              "description": "ESLint plugin with rules that help validate proper imports.",
+              "owner": {
+                "name": "import-js",
+                "resourcePath": "/import-js",
+                "url": "https://github.com/import-js"
+              },
+              "resourcePath": "/import-js/eslint-plugin-import",
+              "url": "https://github.com/import-js/eslint-plugin-import"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/import-js/eslint-plugin-import/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "learn-co-sandbox",
+              "description": "Note: the PSNProfiles player scraper I started developing here has been moved to a separate repository \"PSNProfiles-player-scraper\"",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/learn-co-sandbox",
+              "url": "https://github.com/yndajas/learn-co-sandbox"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/learn-co-sandbox/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "ops-docs",
+              "description": null,
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/ops-docs",
+              "url": "https://github.com/dxw/ops-docs"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/dxw/ops-docs/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "dalmatian-config",
+              "description": null,
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/dalmatian-config",
+              "url": "https://github.com/dxw/dalmatian-config"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/dxw/dalmatian-config/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          },
+          {
+            "repository": {
+              "name": "jekyll-sass-converter",
+              "description": "A Sass converter for Jekyll.",
+              "owner": {
+                "name": "Jekyll",
+                "resourcePath": "/jekyll",
+                "url": "https://github.com/jekyll"
+              },
+              "resourcePath": "/jekyll/jekyll-sass-converter",
+              "url": "https://github.com/jekyll/jekyll-sass-converter"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/jekyll/jekyll-sass-converter/commits?author=yndajas&since=2023-01-01&until=2024-01-01"
+          }
+        ],
+        "totalIssueContributions": 38,
+        "totalRepositoriesWithContributedIssues": 11,
+        "totalPullRequestContributions": 347,
+        "totalRepositoriesWithContributedPullRequests": 22,
+        "totalPullRequestReviewContributions": 433,
+        "totalRepositoriesWithContributedPullRequestReviews": 24,
+        "totalRepositoryContributions": 8,
+        "contributionCalendar": {
+          "totalContributions": 2741
+        },
+        "hasActivityInThePast": true
+      }
+    }
+  }
+}

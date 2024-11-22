@@ -1,0 +1,53 @@
+# Run at https://docs.github.com/en/graphql/overview/explorer
+
+{
+  viewer {
+    contributionsCollection(
+      from: "2024-01-01T00:00:00Z"
+      to: "2024-12-31T23:59:59Z"
+    ) {
+      startedAt
+      endedAt
+      totalCommitContributions
+      totalRepositoriesWithContributedCommits
+      # if the `totalRepositoriesWithContributedCommits` number is greater than
+      # 100, the `maxRepositories` argument will need increasing, or the query
+      # will need splitting
+      commitContributionsByRepository(maxRepositories: 100) {
+        repository {
+          name
+          description
+          owner {
+            ... on Organization {
+              name
+              resourcePath
+              url
+            }
+            ... on User {
+              name
+              resourcePath
+              url
+            }
+          }
+          resourcePath
+          url
+        }
+        contributions {
+          totalCount
+        }
+        url
+      }
+      totalIssueContributions
+      totalRepositoriesWithContributedIssues
+      totalPullRequestContributions
+      totalRepositoriesWithContributedPullRequests
+      totalPullRequestReviewContributions
+      totalRepositoriesWithContributedPullRequestReviews
+      totalRepositoryContributions
+      contributionCalendar {
+        totalContributions
+      }
+      hasActivityInThePast
+    }
+  }
+}

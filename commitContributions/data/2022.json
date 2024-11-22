@@ -1,0 +1,331 @@
+{
+  "data": {
+    "viewer": {
+      "contributionsCollection": {
+        "startedAt": "2022-01-01T00:00:00Z",
+        "endedAt": "2022-12-31T23:59:59Z",
+        "totalCommitContributions": 550,
+        "totalRepositoriesWithContributedCommits": 18,
+        "commitContributionsByRepository": [
+          {
+            "repository": {
+              "name": "action-agenda",
+              "description": null,
+              "owner": {
+                "name": "UNEP-WCMC",
+                "resourcePath": "/unepwcmc",
+                "url": "https://github.com/unepwcmc"
+              },
+              "resourcePath": "/unepwcmc/action-agenda",
+              "url": "https://github.com/unepwcmc/action-agenda"
+            },
+            "contributions": {
+              "totalCount": 259
+            },
+            "url": "https://github.com/unepwcmc/action-agenda/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "beis-report-official-development-assistance",
+              "description": "Report Official Development Assistance (RODA)",
+              "owner": {
+                "name": "Department of Business, Energy and Industrial Strategy",
+                "resourcePath": "/UKGovernmentBEIS",
+                "url": "https://github.com/UKGovernmentBEIS"
+              },
+              "resourcePath": "/UKGovernmentBEIS/beis-report-official-development-assistance",
+              "url": "https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance"
+            },
+            "contributions": {
+              "totalCount": 181
+            },
+            "url": "https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "playbook",
+              "description": "How we do things at dxw",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/playbook",
+              "url": "https://github.com/dxw/playbook"
+            },
+            "contributions": {
+              "totalCount": 46
+            },
+            "url": "https://github.com/dxw/playbook/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "Twitch-YndaBot",
+              "description": "Custom Twitch chat bot with various commands",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/Twitch-YndaBot",
+              "url": "https://github.com/yndajas/Twitch-YndaBot"
+            },
+            "contributions": {
+              "totalCount": 16
+            },
+            "url": "https://github.com/yndajas/Twitch-YndaBot/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "yndajas",
+              "description": "Profile README",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/yndajas",
+              "url": "https://github.com/yndajas/yndajas"
+            },
+            "contributions": {
+              "totalCount": 13
+            },
+            "url": "https://github.com/yndajas/yndajas/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "Algorithms",
+              "description": "A collection of algorithms implmented in Ruby and/or JavaScript",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/Algorithms",
+              "url": "https://github.com/yndajas/Algorithms"
+            },
+            "contributions": {
+              "totalCount": 9
+            },
+            "url": "https://github.com/yndajas/Algorithms/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "accessibility-manual",
+              "description": "How we do accessibility at dxw",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/accessibility-manual",
+              "url": "https://github.com/dxw/accessibility-manual"
+            },
+            "contributions": {
+              "totalCount": 7
+            },
+            "url": "https://github.com/dxw/accessibility-manual/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "projectbook",
+              "description": "100+ project ideas with specifications, mock-ups, and assets for learning any programming language",
+              "owner": {
+                "name": "Brett Chalupa",
+                "resourcePath": "/brettchalupa",
+                "url": "https://github.com/brettchalupa"
+              },
+              "resourcePath": "/brettchalupa/projectbook",
+              "url": "https://github.com/brettchalupa/projectbook"
+            },
+            "contributions": {
+              "totalCount": 5
+            },
+            "url": "https://github.com/brettchalupa/projectbook/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "web-app",
+              "description": "Nonprofit Circle (formerly Nonprofit Exchange Hub) A hub for the exchange of goods, information and connections for nonprofits of all sizes.",
+              "owner": {
+                "name": "Nonprofit-Exchange-Hub",
+                "resourcePath": "/Nonprofit-Exchange-Hub",
+                "url": "https://github.com/Nonprofit-Exchange-Hub"
+              },
+              "resourcePath": "/Nonprofit-Exchange-Hub/web-app",
+              "url": "https://github.com/Nonprofit-Exchange-Hub/web-app"
+            },
+            "contributions": {
+              "totalCount": 3
+            },
+            "url": "https://github.com/Nonprofit-Exchange-Hub/web-app/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "advent-of-code",
+              "description": "Advent of Code solutions",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/advent-of-code",
+              "url": "https://github.com/yndajas/advent-of-code"
+            },
+            "contributions": {
+              "totalCount": 2
+            },
+            "url": "https://github.com/yndajas/advent-of-code/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "rails-template",
+              "description": "A template repository for use when starting a new app with Rails. It includes dxw default project configuration and decision records.",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/rails-template",
+              "url": "https://github.com/dxw/rails-template"
+            },
+            "contributions": {
+              "totalCount": 2
+            },
+            "url": "https://github.com/dxw/rails-template/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "local-env",
+              "description": "Get set up quickly for working with software at dxw",
+              "owner": {
+                "name": "dxw",
+                "resourcePath": "/dxw",
+                "url": "https://github.com/dxw"
+              },
+              "resourcePath": "/dxw/local-env",
+              "url": "https://github.com/dxw/local-env"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/dxw/local-env/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "dotfiles",
+              "description": null,
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/dotfiles",
+              "url": "https://github.com/yndajas/dotfiles"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/dotfiles/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "StackStore",
+              "description": "Find, keep, tag and make notes on Stack Overflow questions",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/StackStore",
+              "url": "https://github.com/yndajas/StackStore"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/StackStore/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats",
+              "description": "Single page application for discovering and saving jazz, cats and comedy!",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats",
+              "url": "https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "Workinonit",
+              "description": "Search for jobs and keep track of your applications in one simple but powerful web app!",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/Workinonit",
+              "url": "https://github.com/yndajas/Workinonit"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/Workinonit/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "Racqueteer",
+              "description": "Lightweight web app for keeping track of racquet sports activities. Record and review matches, coaching, racquets and more!",
+              "owner": {
+                "name": "Ynda Jas",
+                "resourcePath": "/yndajas",
+                "url": "https://github.com/yndajas"
+              },
+              "resourcePath": "/yndajas/Racqueteer",
+              "url": "https://github.com/yndajas/Racqueteer"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/yndajas/Racqueteer/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          },
+          {
+            "repository": {
+              "name": "madge",
+              "description": "Create graphs from your CommonJS, AMD or ES6 module dependencies",
+              "owner": {
+                "name": "Patrik Henningsson",
+                "resourcePath": "/pahen",
+                "url": "https://github.com/pahen"
+              },
+              "resourcePath": "/pahen/madge",
+              "url": "https://github.com/pahen/madge"
+            },
+            "contributions": {
+              "totalCount": 1
+            },
+            "url": "https://github.com/pahen/madge/commits?author=yndajas&since=2022-01-01&until=2023-01-01"
+          }
+        ],
+        "totalIssueContributions": 21,
+        "totalRepositoriesWithContributedIssues": 7,
+        "totalPullRequestContributions": 99,
+        "totalRepositoriesWithContributedPullRequests": 9,
+        "totalPullRequestReviewContributions": 135,
+        "totalRepositoriesWithContributedPullRequestReviews": 10,
+        "totalRepositoryContributions": 3,
+        "contributionCalendar": {
+          "totalContributions": 1972
+        },
+        "hasActivityInThePast": true
+      }
+    }
+  }
+}
