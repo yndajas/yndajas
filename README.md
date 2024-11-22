@@ -6,7 +6,7 @@ I currently work at dxw, where I mostly build digital public services, but I als
 
 The reason I became a software engineer was to make a difference in a job that combines problem solving, creativity, and a continuous journey of learning and discovery.
 
-I'm also on [LinkedIn](https://www.linkedin.com/in/yndajas), [Mastodon](https://tech.lgbt/@YndaJas), and various other social networks (@yndajas). You might be able to reach me by email, but don't bank on it: [yndajas@gmail.com](mailto:yndajas@gmail.com). And I have a lightweight forever-in-progress [personal site](https://yndajas.github.io/simple-website/).
+I'm also on [LinkedIn](https://www.linkedin.com/in/yndajas), <a href="https://tech.lgbt/@YndaJas" rel="me nofollow">Mastodon</a>, and some other social networks (@yndajas). You might be able to reach me by email, but don't bank on it: [yndajas@gmail.com](mailto:yndajas@gmail.com). And I have a lightweight forever-in-progress [personal site](https://yndajas.github.io/simple-website).
 
 ![Some personal GitHub statistics](https://github.com/yndajas/github-stats/blob/master/generated/overview.svg)
 ![Some statistics on the languages used in open-source GitHub repositories I've contributed to](https://github.com/yndajas/github-stats/blob/master/generated/languages.svg)
