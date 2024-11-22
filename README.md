@@ -17,6 +17,8 @@ In lieu of a hard-to-maintain detailed projects section, below are links to a se
 
 I don't have a well-maintained CV either, but my LinkedIn profile includes a fairly detailed history of CV-like facts, sans details on specific projects.
 
+For a more comprehensive look at past personal/non-client work, there's a handy filter to view all of [my non-archived original ('source' or non-forked) repositories](https://github.com/yndajas?tab=repositories&q=&type=source). This filters out several hundred archived forked repositories, most of which are just study materials and exercises.
+
 ### Client work
 
 - [Accredited Programmes UI](https://github.com/ministryofjustice/hmpps-accredited-programmes-ui), Ministry of Justice - a user interface to help people in prison access accredited courses
