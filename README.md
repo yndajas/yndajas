@@ -1,6 +1,6 @@
 # 👋🏻 Hello
 
-I'm Ynda ([they/them](https://name.pn/ynda-jas#pronouns); 🔊
+I'm Ynda ([they/she](https://name.pn/ynda-jas#pronouns); 🔊
 [in-duh](https://name.pn/ynda-jas#pronunciation)), a software engineer
 experienced in Ruby (inc. Rails) and JavaScript-based programming (inc.
 TypeScript, Vue, and React) with a background in education, research, and
