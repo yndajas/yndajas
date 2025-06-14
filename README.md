@@ -78,6 +78,7 @@ private repository.
 - [dotfiles](https://github.com/yndajas/dotfiles) - my dotfiles with a setup
   script powered by
   [dotbot](https://github.com/anishathalye/dotbot?tab=readme-ov-file#full-example)
+- [colour colour colour](https://github.com/yndajas/colour) - a random colour generator
 - [Twitter archive](https://github.com/yndajas/twitter) - an interactive archive
   of my @yndajas Twitter profile, which is now deactivated
 
