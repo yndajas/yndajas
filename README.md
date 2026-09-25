@@ -95,4 +95,4 @@ editor since early 2021. You can also check out
 [my WakaTime profile](https://wakatime.com/@yndajas) for an alternative look at
 the data.
 
-[![WakaTime stats - click through for ](https://github-readme-stats.vercel.app/api/wakatime?username=yndajas&layout=compact&custom_title=WakaTime%20stats)](https://github-readme-stats.vercel.app/api/wakatime?username=yndajas&layout=compact&custom_title=WakaTime%20stats)
+[![WakaTime stats ](https://github-stats-extended.vercel.app/api/wakatime?username=yndajas&layout=compact&langs_count=200&theme=light_github)](https://github-stats-extended.vercel.app/api/wakatime?username=yndajas&layout=compact&langs_count=200&theme=light_github)
