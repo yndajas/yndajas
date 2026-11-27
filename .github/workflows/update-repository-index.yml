@@ -69,7 +69,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --message "Update repository index"
+          git commit --message "Update commit data"
           gh auth setup-git
           git push --force-with-lease origin "$BRANCH"
 
@@ -83,5 +83,5 @@ jobs:
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "Update repository index" \
-            --body "This updates the commit counts in \`data/commits_by_repository.json\` and the README's repository index from GitHub's contribution data"
+            --title "Update commit data" \
+            --body "This refreshes \`data/commits_by_repository.json\` from GitHub's contribution data, and regenerates the README's repository index where the order has changed"
