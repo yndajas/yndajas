@@ -296,6 +296,22 @@
   },
   {
     "org": "yndajas",
+    "name": "yndajas",
+    "url": "https://github.com/yndajas/yndajas",
+    "commit_count": 100,
+    "commit_counts_by_year": {
+      "2021": 44,
+      "2022": 13,
+      "2023": 4,
+      "2024": 21,
+      "2025": 4,
+      "2026": 14
+    },
+    "first_commit_month": "2021-03",
+    "latest_commit_month": "2026-11"
+  },
+  {
+    "org": "yndajas",
     "name": "lta-tools",
     "url": "https://github.com/yndajas/lta-tools",
     "commit_count": 32,
@@ -535,22 +551,6 @@
     },
     "first_commit_month": "2022-09",
     "latest_commit_month": "2026-04"
-  },
-  {
-    "org": "yndajas",
-    "name": "yndajas",
-    "url": "https://github.com/yndajas/yndajas",
-    "commit_count": 87,
-    "commit_counts_by_year": {
-      "2021": 44,
-      "2022": 13,
-      "2023": 4,
-      "2024": 21,
-      "2025": 4,
-      "2026": 1
-    },
-    "first_commit_month": "2021-03",
-    "latest_commit_month": "2026-09"
   },
   {
     "org": "brettchalupa",
