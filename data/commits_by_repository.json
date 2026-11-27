@@ -232,6 +232,22 @@
     "latest_commit_month": "2026-11"
   },
   {
+    "org": "yndajas",
+    "name": "yndajas",
+    "url": "https://github.com/yndajas/yndajas",
+    "commit_count": 104,
+    "commit_counts_by_year": {
+      "2021": 44,
+      "2022": 13,
+      "2023": 4,
+      "2024": 21,
+      "2025": 4,
+      "2026": 18
+    },
+    "first_commit_month": "2021-03",
+    "latest_commit_month": "2026-11"
+  },
+  {
     "org": "alphagov",
     "name": "govuk_content_item_loader",
     "url": "https://github.com/alphagov/govuk_content_item_loader",
@@ -535,22 +551,6 @@
     },
     "first_commit_month": "2022-09",
     "latest_commit_month": "2026-04"
-  },
-  {
-    "org": "yndajas",
-    "name": "yndajas",
-    "url": "https://github.com/yndajas/yndajas",
-    "commit_count": 87,
-    "commit_counts_by_year": {
-      "2021": 44,
-      "2022": 13,
-      "2023": 4,
-      "2024": 21,
-      "2025": 4,
-      "2026": 1
-    },
-    "first_commit_month": "2021-03",
-    "latest_commit_month": "2026-09"
   },
   {
     "org": "brettchalupa",
