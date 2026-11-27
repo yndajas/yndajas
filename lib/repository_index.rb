@@ -13,11 +13,12 @@ class RepositoryIndex
     | -------- | ------------ |
   MARKDOWN
 
-  def initialize(repositories:, categories:)
+  def initialize(repositories:, categories:, login:)
     @repositories = repositories.to_h do |repository|
       [full_name(repository), repository]
     end
     @categories = categories
+    @login = login
   end
 
   def insert_into(readme)
@@ -77,10 +78,17 @@ class RepositoryIndex
     links = repositories.map do |repository|
       link_text =
         shared_owner ? repository.fetch("name") : full_name(repository)
-      "[#{link_text}](#{repository.fetch('url')})"
+      "[#{link_text}](#{link_url(repository)})"
     end
 
     "| #{escape_pipes(category)} | #{owner_prefix}#{links.join(', ')} |"
+  end
+
+  def link_url(repository)
+    url = repository.fetch("url")
+    return url if repository.fetch("org") == @login
+
+    "#{url}/commits?author=#{@login}"
   end
 
   def escape_pipes(text)

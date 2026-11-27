@@ -25,13 +25,14 @@ describe RepositoryIndex do
       index = RepositoryIndex.new(
         repositories: [repository("dxw/b"), repository("yndajas/a")],
         categories: { "One" => ["yndajas/a"], "Two" => ["dxw/b"] },
+        login: "yndajas",
       )
 
       assert_equal(
         "| category | repositories |\n" \
         "| -------- | ------------ |\n" \
         "| One | yndajas/ → [a](https://github.com/yndajas/a) |\n" \
-        "| Two | dxw/ → [b](https://github.com/dxw/b) |",
+        "| Two | dxw/ → [b](https://github.com/dxw/b/commits?author=yndajas) |",
         index.to_markdown,
       )
     end
@@ -40,25 +41,53 @@ describe RepositoryIndex do
       index = RepositoryIndex.new(
         repositories: [repository("dxw/b"), repository("yndajas/a")],
         categories: { "Tools" => ["yndajas/a", "dxw/b"] },
+        login: "yndajas",
       )
 
       assert_includes(
         index.to_markdown,
-        "| Tools | [dxw/b](https://github.com/dxw/b), " \
+        "| Tools | [dxw/b](https://github.com/dxw/b/commits?author=yndajas), " \
         "[yndajas/a](https://github.com/yndajas/a) |",
       )
     end
 
     it "states a shared owner once" do
       index = RepositoryIndex.new(
-        repositories: [repository("alphagov/signon")],
-        categories: { "GOV.UK" => ["alphagov/signon"] },
+        repositories: [repository("yndajas/a"), repository("yndajas/b")],
+        categories: { "Mine" => ["yndajas/a", "yndajas/b"] },
+        login: "yndajas",
       )
 
       assert_includes(
         index.to_markdown,
-        "| GOV.UK | alphagov/ → " \
-        "[signon](https://github.com/alphagov/signon) |",
+        "| Mine | yndajas/ → [a](https://github.com/yndajas/a), " \
+        "[b](https://github.com/yndajas/b) |",
+      )
+    end
+
+    it "links to the user's commits in other owners' repositories" do
+      index = RepositoryIndex.new(
+        repositories: [repository("alphagov/signon")],
+        categories: { "GOV.UK" => ["alphagov/signon"] },
+        login: "yndajas",
+      )
+
+      assert_includes(
+        index.to_markdown,
+        "[signon](https://github.com/alphagov/signon/commits?author=yndajas)",
+      )
+    end
+
+    it "links to the root of the user's own repositories" do
+      index = RepositoryIndex.new(
+        repositories: [repository("yndajas/dotfiles")],
+        categories: { "Tools" => ["yndajas/dotfiles"] },
+        login: "yndajas",
+      )
+
+      assert_includes(
+        index.to_markdown,
+        "[dotfiles](https://github.com/yndajas/dotfiles)",
       )
     end
 
@@ -66,6 +95,7 @@ describe RepositoryIndex do
       index = RepositoryIndex.new(
         repositories: [repository("yndajas/a")],
         categories: { "This | that" => ["yndajas/a"] },
+        login: "yndajas",
       )
 
       assert_includes(index.to_markdown, "| This \\| that |")
@@ -76,6 +106,7 @@ describe RepositoryIndex do
         index = RepositoryIndex.new(
           repositories: [repository("yndajas/a")],
           categories: { "One" => ["yndajas/a"], "Empty" => nil },
+          login: "yndajas",
         )
 
         assert_categorisation_error(
@@ -90,6 +121,7 @@ describe RepositoryIndex do
         index = RepositoryIndex.new(
           repositories: [repository("yndajas/a")],
           categories: { "One" => ["yndajas/a"], "Two" => ["yndajas/a"] },
+          login: "yndajas",
         )
 
         assert_categorisation_error(
@@ -104,6 +136,7 @@ describe RepositoryIndex do
         index = RepositoryIndex.new(
           repositories: [repository("yndajas/a")],
           categories: { "One" => ["yndajas/a", "yndajas/missing"] },
+          login: "yndajas",
         )
 
         assert_categorisation_error(
@@ -118,6 +151,7 @@ describe RepositoryIndex do
         index = RepositoryIndex.new(
           repositories: [repository("yndajas/a"), repository("yndajas/b")],
           categories: { "One" => ["yndajas/a"] },
+          login: "yndajas",
         )
 
         assert_categorisation_error(
@@ -132,6 +166,7 @@ describe RepositoryIndex do
         index = RepositoryIndex.new(
           repositories: [repository("yndajas/a")],
           categories: { "One" => ["yndajas/missing"], "Empty" => nil },
+          login: "yndajas",
         )
 
         assert_categorisation_error(
@@ -149,6 +184,7 @@ describe RepositoryIndex do
       index = RepositoryIndex.new(
         repositories: [repository("yndajas/a")],
         categories: { "Misc" => ["yndajas/a"] },
+        login: "yndajas",
       )
       readme = <<~MARKDOWN
         Before
@@ -175,7 +211,11 @@ describe RepositoryIndex do
     end
 
     it "raises when the README has no markers" do
-      index = RepositoryIndex.new(repositories: [], categories: {})
+      index = RepositoryIndex.new(
+        repositories: [],
+        categories: {},
+        login: "yndajas",
+      )
 
       assert_raises(RepositoryIndex::MissingMarkersError) do
         index.insert_into("No markers")

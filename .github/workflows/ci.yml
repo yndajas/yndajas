@@ -59,4 +59,4 @@ jobs:
           bundler-cache: true
 
       - name: Check the README is up to date
-        run: script/update_readme --check
+        run: script/update_readme yndajas --check
