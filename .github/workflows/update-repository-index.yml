@@ -56,7 +56,7 @@ jobs:
 
       - name: Update the README
         continue-on-error: true
-        run: script/update_readme
+        run: script/update_readme yndajas
 
       - name: Commit and push changes
         run: |

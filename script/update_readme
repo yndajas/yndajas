@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Usage: script/update_readme [--check]
+# Usage: script/update_readme <login> [--check]
 #
 # With --check, fails instead of writing if the README is out of date
 
@@ -9,6 +9,8 @@ require "json"
 require "yaml"
 require_relative "../lib/repository_index"
 
+usage = "Usage: #{$PROGRAM_NAME} <login> [--check]"
+login = ARGV.fetch(0) { abort usage }
 root = File.expand_path("..", __dir__)
 readme_path = File.join(root, "README.md")
 
@@ -19,6 +21,7 @@ index = RepositoryIndex.new(
   categories: YAML.safe_load_file(
     File.join(root, "data/repository_categories.yml"),
   ),
+  login:,
 )
 
 readme = File.read(readme_path)
@@ -31,7 +34,7 @@ end
 
 if ARGV.include?("--check")
   if updated_readme != readme
-    abort "README is out of date: run script/update_readme"
+    abort "README is out of date: run script/update_readme #{login}"
   end
 else
   File.write(readme_path, updated_readme)
