@@ -1,98 +1,31 @@
-# 👋🏻 Hello
+# That's that me, technically
 
-I'm Ynda ([they/she](https://name.pn/ynda-jas#pronouns); 🔊
-[in-duh](https://name.pn/ynda-jas#pronunciation)), a software engineer
-experienced in Ruby (inc. Rails) and JavaScript-based programming (inc.
-TypeScript, Vue, and React) with a background in education, research, and
-community-building.
+Check my 'simple website' for a more human bio
 
-I currently work at dxw, where I mostly build digital public services, but I
-also dabble in internal work. The latter varies from shell scripting to user
-scripting to recruitment to solidarity building ✊🏻 to accessibility advocacy to
-building an online multiplayer quiz game.
+## Repository index
 
-The reason I became a software engineer was to make a difference in a job that
-combines problem solving, creativity, and a continuous journey of learning and
-discovery.
+<!-- repository-index:start -->
 
-I'm also on [LinkedIn](https://www.linkedin.com/in/yndajas),
-<a href="https://tech.lgbt/@YndaJas" rel="me nofollow">Mastodon</a>, and some
-other social networks (@yndajas). You might be able to reach me by email, but
-don't bank on it: [yndajas@gmail.com](mailto:yndajas@gmail.com). And I have a
-lightweight forever-in-progress
-[personal site](https://yndajas.github.io/simple-website).
+| category | repositories |
+| -------- | ------------ |
+| My games | yndajas/ → [godot-starter](https://github.com/yndajas/godot-starter), [game-off-2023](https://github.com/yndajas/game-off-2023), [1-bit-jam-2](https://github.com/yndajas/1-bit-jam-2), [ludum-dare-54](https://github.com/yndajas/ludum-dare-54), [qgjam-2023](https://github.com/yndajas/qgjam-2023) |
+| My websites | yndajas/ → [collection](https://github.com/yndajas/collection), [simple-website](https://github.com/yndajas/simple-website), [wherewords](https://github.com/yndajas/wherewords), [yndajas](https://github.com/yndajas/yndajas), [colour](https://github.com/yndajas/colour), [twitter](https://github.com/yndajas/twitter), [video-game-library](https://github.com/yndajas/video-game-library), [yndajas.co](https://github.com/yndajas/yndajas.co), [Workinonit](https://github.com/yndajas/Workinonit), [sexuality-in-a-non-binary-world](https://github.com/yndajas/sexuality-in-a-non-binary-world), [StackStore](https://github.com/yndajas/StackStore), [Racqueteer](https://github.com/yndajas/Racqueteer), [JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats](https://github.com/yndajas/JazzCatCom-Comedy-Cats-and-Chris-Daves-Hi-hats), [Nihongooo](https://github.com/yndajas/Nihongooo), [El-Goog](https://github.com/yndajas/El-Goog) |
+| My tools and scripts | yndajas/ → [dotfiles](https://github.com/yndajas/dotfiles), [lta-tools](https://github.com/yndajas/lta-tools), [shopto-tools](https://github.com/yndajas/shopto-tools), [notes](https://github.com/yndajas/notes), [gmail-visible-email-addresses](https://github.com/yndajas/gmail-visible-email-addresses), [userstyles](https://github.com/yndajas/userstyles), [breathehr-leave-converter](https://github.com/yndajas/breathehr-leave-converter), [Nihongo-scripts](https://github.com/yndajas/Nihongo-scripts), [scripts-to-rule-them-all](https://github.com/yndajas/scripts-to-rule-them-all), [Twitch-YndaBot](https://github.com/yndajas/Twitch-YndaBot), [PSNProfiles-player-scraper](https://github.com/yndajas/PSNProfiles-player-scraper), [selected-text-readability](https://github.com/yndajas/selected-text-readability) |
+| Learning and challenges | yndajas/ → [advent-of-code](https://github.com/yndajas/advent-of-code), [rustlings](https://github.com/yndajas/rustlings), [cs50-2020](https://github.com/yndajas/cs50-2020), [Algorithms](https://github.com/yndajas/Algorithms) |
+| GOV.UK | alphagov/ → [publishing-api](https://github.com/alphagov/publishing-api), [signon](https://github.com/alphagov/signon), [support](https://github.com/alphagov/support), [asset-manager](https://github.com/alphagov/asset-manager), [hmrc-manuals-api](https://github.com/alphagov/hmrc-manuals-api), [transition](https://github.com/alphagov/transition), [support-api](https://github.com/alphagov/support-api), [govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs), [govuk-content-api-docs](https://github.com/alphagov/govuk-content-api-docs), [gds-api-adapters](https://github.com/alphagov/gds-api-adapters), [govuk-helm-charts](https://github.com/alphagov/govuk-helm-charts), [content-store](https://github.com/alphagov/content-store), [govspeak-preview](https://github.com/alphagov/govspeak-preview), [govuk_content_item_loader](https://github.com/alphagov/govuk_content_item_loader), [authenticating-proxy](https://github.com/alphagov/authenticating-proxy), [link-checker-api](https://github.com/alphagov/link-checker-api), [govuk_sidekiq](https://github.com/alphagov/govuk_sidekiq), [govspeak](https://github.com/alphagov/govspeak), [govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure), [bouncer](https://github.com/alphagov/bouncer), [govuk_schemas](https://github.com/alphagov/govuk_schemas), [optic14n](https://github.com/alphagov/optic14n), [govuk_message_queue_consumer](https://github.com/alphagov/govuk_message_queue_consumer), [gds-sso](https://github.com/alphagov/gds-sso), [feedback](https://github.com/alphagov/feedback), [whitehall](https://github.com/alphagov/whitehall), [seal](https://github.com/alphagov/seal), [govuk_publishing_components](https://github.com/alphagov/govuk_publishing_components), [content-data-api](https://github.com/alphagov/content-data-api), [govuk-cli](https://github.com/alphagov/govuk-cli), [govuk-dependabot-merger](https://github.com/alphagov/govuk-dependabot-merger), [release](https://github.com/alphagov/release), [search-api](https://github.com/alphagov/search-api), [frontend](https://github.com/alphagov/frontend), [tech-docs-gem](https://github.com/alphagov/tech-docs-gem), [govuk-e2e-tests](https://github.com/alphagov/govuk-e2e-tests), [govuk-docker](https://github.com/alphagov/govuk-docker), [govuk-sli-collector](https://github.com/alphagov/govuk-sli-collector), [govuk-graphql](https://github.com/alphagov/govuk-graphql), [rubocop-govuk](https://github.com/alphagov/rubocop-govuk), [collections](https://github.com/alphagov/collections), [govuk-browser-extension](https://github.com/alphagov/govuk-browser-extension), [smokey](https://github.com/alphagov/smokey) |
+| Ministry of Justice | ministryofjustice/ → [hmpps-accredited-programmes-ui](https://github.com/ministryofjustice/hmpps-accredited-programmes-ui), [hmpps-approved-premises-ui](https://github.com/ministryofjustice/hmpps-approved-premises-ui), [hmpps-accredited-programmes-e2e](https://github.com/ministryofjustice/hmpps-accredited-programmes-e2e), [hmpps-accredited-programmes-api](https://github.com/ministryofjustice/hmpps-accredited-programmes-api), [hmpps-approved-premises-tools](https://github.com/ministryofjustice/hmpps-approved-premises-tools), [hmpps-approved-premises-api](https://github.com/ministryofjustice/hmpps-approved-premises-api), [hmpps-template-typescript](https://github.com/ministryofjustice/hmpps-template-typescript) |
+| Department for Science, Innovation and Technology | UKGovernmentBEIS/ → [beis-report-official-development-assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance) |
+| dxw (employer) | dxw/ → [playbook-2015](https://github.com/dxw/playbook-2015), [rails-template](https://github.com/dxw/rails-template), [renovate-config](https://github.com/dxw/renovate-config), [scripts-to-rule-them-all](https://github.com/dxw/scripts-to-rule-them-all), [towtruck](https://github.com/dxw/towtruck), [local-env](https://github.com/dxw/local-env), [js-cop-games](https://github.com/dxw/js-cop-games), [tech-team-rfcs](https://github.com/dxw/tech-team-rfcs), [accessibility-manual](https://github.com/dxw/accessibility-manual), [dfsseta-apply-for-landing-ruby](https://github.com/dxw/dfsseta-apply-for-landing-ruby), [dxw-prototype-lib](https://github.com/dxw/dxw-prototype-lib), [dxw-typeface-testing](https://github.com/dxw/dxw-typeface-testing), [nest-template](https://github.com/dxw/nest-template), [acronym-bot](https://github.com/dxw/acronym-bot), [node-for-rails-devs](https://github.com/dxw/node-for-rails-devs), [tech-radar](https://github.com/dxw/tech-radar), [brand-rotator](https://github.com/dxw/brand-rotator) |
+| Other external tools | [brettchalupa/usagi](https://github.com/brettchalupa/usagi), [biomejs/biome](https://github.com/biomejs/biome), [elduvelle/elduvelle.github.io](https://github.com/elduvelle/elduvelle.github.io), [neovim/neovim](https://github.com/neovim/neovim), [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import), [jekyll/jekyll-sass-converter](https://github.com/jekyll/jekyll-sass-converter), [pahen/madge](https://github.com/pahen/madge) |
+| Other external websites and resources | [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter), [nonbinarylondon/Non-binary-London-website](https://github.com/nonbinarylondon/Non-binary-London-website), [rust-lang/book](https://github.com/rust-lang/book), [johnpeart/lgbt-mp](https://github.com/johnpeart/lgbt-mp), [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook), [Nonprofit-Exchange-Hub/web-app](https://github.com/Nonprofit-Exchange-Hub/web-app) |
+| Other external apps | salemlf/ → [hakubun](https://github.com/salemlf/hakubun) |
 
-## 👩🏻‍💻 Projects
-
-In lieu of a hard-to-maintain detailed projects section, below are links to a
-select few repositories to which I've made substantial contributions.
-
-I don't have a well-maintained CV either, but my LinkedIn profile includes a
-fairly detailed history of CV-like facts, sans details on specific projects.
-
-You can also:
-
-- browse past personal/non-client work by using a handy filter to view all of
-  [my non-archived original ('source' or non-forked) repositories](https://github.com/yndajas?tab=repositories&q=&type=source).
-  This filters out several hundred archived forked repositories, most of which
-  are just study materials and exercises
-- explore [detailed commit contribution data](./commitContributions/data)
-
-### Client work
-
-- [Accredited Programmes UI](https://github.com/ministryofjustice/hmpps-accredited-programmes-ui),
-  Ministry of Justice - a user interface to help people in prison access
-  accredited courses
-- [Signon](https://github.com/alphagov/signon), Government Digital Service - a
-  single sign-on provider and access and permissions manager for GOV.UK
-- [Report Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance),
-  Department for Science, Innovation and Technology - a service for monitoring
-  and reporting on aid-related spending
-
-### Games
-
-Various games are available to download or play in browser at
-[my itch.io profile](https://yndajas.itch.io).
-
-- [It's Closing Time](https://github.com/yndajas/1-bit-jam-2) - a cute Godot
-  game about getting rid of customers
-- [Gay Ray](https://github.com/yndajas/qgjam-2023) - a Godot side-scrolling
-  shooter about promoting the gay agenda
-- [Get The Pumpkin!](https://github.com/yndajas/ludum-dare-54) - a simple Godot
-  platformer
-
-I'm also working on a multiplayer game inspired by
-[Colourbrain](https://bigpotato.co.uk/products/colourbrain) using WebSockets and
-a state machine, written in TypeScript and powered by Bun, but this is in a
-private repository.
-
-### Other
-
-- [dxw's playbook](https://github.com/dxw/playbook) - a Jekyll site using Decap
-  CMS
-- [Advent of Code](https://github.com/yndajas/advent-of-code) - my
-  [Advent of Code](https://adventofcode.com) solutions in various languages
-- [personal website](https://github.com/yndajas/simple-website) - a simple site
-  in terms of content, but a low tech playground (useful features with minimal
-  dependencies)
-- [dotfiles](https://github.com/yndajas/dotfiles) - my dotfiles with a setup
-  script powered by
-  [dotbot](https://github.com/anishathalye/dotbot?tab=readme-ov-file#full-example)
-- [colour colour colour](https://github.com/yndajas/colour) - a random colour generator
-- [Twitter archive](https://github.com/yndajas/twitter) - an interactive archive
-  of my @yndajas Twitter profile, which is now deactivated
+<!-- repository-index:end -->
 
 ## Language stats
 
-Below is a visualisation of time spent working in different languages since
-early 2021. Linked via the image is a version that should be more screen reader
-friendly, though navigating to the SVG's text content with a keyboard might be a
-challenge.
-
-The data are taken from WakaTime, which tracks and categorises the time spent
-editing code. I believe I've been using it pretty consistently with my main
-editor since early 2021. You can also check out
-[my WakaTime profile](https://wakatime.com/@yndajas) for an alternative look at
-the data.
+Time spent working in different languages since early 2021 as tracked by
+WakaTime. Image links to a more screen reader-friendly version. Also see
+[my WakaTime profile](https://wakatime.com/@yndajas)
 
 [![WakaTime stats ](https://github-stats-extended.vercel.app/api/wakatime?username=yndajas&layout=compact&langs_count=200&theme=light_github)](https://github-stats-extended.vercel.app/api/wakatime?username=yndajas&layout=compact&langs_count=200&theme=light_github)

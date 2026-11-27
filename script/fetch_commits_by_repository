@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Usage: GH_TOKEN=<token> script/fetch_commits_by_repository <login>
+
+require "json"
+require_relative "../lib/commits_by_repository"
+require_relative "../lib/github_graphql_client"
+
+usage = "Usage: GH_TOKEN=<token> #{$PROGRAM_NAME} <login>"
+login = ARGV.fetch(0) { abort usage }
+token = ENV.fetch("GH_TOKEN") { abort "GH_TOKEN must be set" }
+output_path = File.expand_path("../data/commits_by_repository.json", __dir__)
+
+repositories = CommitsByRepository.new(
+  login:,
+  client: GitHubGraphQLClient.new(token:),
+).repositories
+
+File.write(output_path, "#{JSON.pretty_generate(repositories)}\n")

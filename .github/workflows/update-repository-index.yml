@@ -1,0 +1,89 @@
+name: Update repository index
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+env:
+  BRANCH: update-repository-index
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Switch to the update branch
+        id: branch
+        run: |
+          open_pull_request=$(
+            gh pr list \
+              --head "$BRANCH" \
+              --state open \
+              --json number \
+              --jq '.[0].number'
+          )
+          echo "open_pull_request=${open_pull_request}" >> "$GITHUB_OUTPUT"
+
+          if [ -n "$open_pull_request" ]; then
+            git switch "$BRANCH"
+          else
+            git switch --force-create "$BRANCH"
+          fi
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@145243922b4465b78e04dd66294782c7de45901f # v1.345.0
+        with:
+          bundler-cache: true
+
+      - name: Fetch commits by repository
+        run: script/fetch_commits_by_repository yndajas
+
+      - name: Update the README
+        continue-on-error: true
+        run: script/update_readme
+
+      - name: Commit and push changes
+        run: |
+          git add data/commits_by_repository.json README.md
+          if git diff --cached --quiet; then
+            echo "Nothing to update"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --message "Update repository index"
+          gh auth setup-git
+          git push --force-with-lease origin "$BRANCH"
+          gh workflow run ci.yml --ref "$BRANCH"
+
+      - name: Open a pull request
+        if: steps.branch.outputs.open_pull_request == ''
+        run: |
+          if [ "$(git rev-list --count origin/main..HEAD)" = "0" ]; then
+            exit 0
+          fi
+
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Update repository index" \
+            --body "This updates the commit counts in \`data/commits_by_repository.json\` and the README's repository index from GitHub's contribution data"
