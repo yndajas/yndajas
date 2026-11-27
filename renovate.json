@@ -1,0 +1,24 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:best-practices",
+    ":approveMajorUpdates",
+    ":automergeLinters",
+    ":automergeMinor",
+    ":automergePr",
+    ":automergeRequireAllStatusChecks",
+    ":automergeTesters",
+    ":combinePatchMinorReleases",
+    "schedule:weekly"
+  ],
+  "minimumReleaseAge": "3 days",
+  "packageRules": [
+    {
+      "dependencyDashboardApproval": false,
+      "matchUpdateTypes": ["major"]
+    }
+  ],
+  "labels": [
+    "dependencies"
+  ]
+}
