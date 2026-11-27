@@ -4,6 +4,8 @@ Check my 'simple website' for a more human bio
 
 ## Repository index
 
+Public repositories to which I've contributed commits, ordered by count per year
+
 <!-- repository-index:start -->
 
 | category | repositories |
