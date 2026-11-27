@@ -21,7 +21,6 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-      actions: write
     steps:
       - name: Checkout code
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -73,7 +72,6 @@ jobs:
           git commit --message "Update repository index"
           gh auth setup-git
           git push --force-with-lease origin "$BRANCH"
-          gh workflow run ci.yml --ref "$BRANCH"
 
       - name: Open a pull request
         if: steps.branch.outputs.open_pull_request == ''
