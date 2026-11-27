@@ -1,0 +1,38 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Usage: script/update_readme [--check]
+#
+# With --check, fails instead of writing if the README is out of date
+
+require "json"
+require "yaml"
+require_relative "../lib/repository_index"
+
+root = File.expand_path("..", __dir__)
+readme_path = File.join(root, "README.md")
+
+index = RepositoryIndex.new(
+  repositories: JSON.parse(
+    File.read(File.join(root, "data/commits_by_repository.json")),
+  ),
+  categories: YAML.safe_load_file(
+    File.join(root, "data/repository_categories.yml"),
+  ),
+)
+
+readme = File.read(readme_path)
+begin
+  updated_readme = index.insert_into(readme)
+rescue RepositoryIndex::CategorisationError,
+       RepositoryIndex::MissingMarkersError => e
+  abort e.message
+end
+
+if ARGV.include?("--check")
+  if updated_readme != readme
+    abort "README is out of date: run script/update_readme"
+  end
+else
+  File.write(readme_path, updated_readme)
+end
